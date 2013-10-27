@@ -1,0 +1,171 @@
+progress SVN r15111 branch master = :1
+progress SVN r15114 branch master = :2
+progress SVN r15115 branch production = :3
+progress SVN r15116 branch master = :4
+progress SVN r15118 branch master = :5
+progress SVN r15120 branch master = :6
+progress SVN r15121 branch master = :7
+progress SVN r15134 branch master = :8
+progress SVN r15246 branch master = :9
+progress SVN r15251 branch master = :10
+progress SVN r15252 branch master = :11
+progress SVN r15260 branch production = :12 # merge from :11
+progress SVN r15295 branch master = :13
+progress SVN r15314 branch master = :14
+progress SVN r15315 branch master = :15
+progress SVN r15316 branch master = :16
+progress SVN r15317 branch master = :17
+progress SVN r15341 branch master = :18
+progress SVN r15378 branch master = :19
+progress SVN r15380 branch master = :20
+progress SVN r15395 branch master = :21
+progress SVN r15396 branch master = :22
+progress SVN r15404 branch master = :23
+progress SVN r15417 branch master = :24
+progress SVN r15418 branch master = :25
+progress SVN r15419 branch master = :26
+progress SVN r15431 branch master = :27
+progress SVN r15462 branch master = :28
+progress SVN r15463 branch production = :29 # merge from :18
+progress SVN r15488 branch master = :30
+progress SVN r15498 branch master = :31
+progress SVN r15505 branch master = :32
+progress SVN r15513 branch production = :33
+progress SVN r15515 branch master = :34
+progress SVN r15516 branch master = :35
+progress SVN r15518 branch master = :36
+progress SVN r15519 branch master = :37
+progress SVN r15520 branch master = :38
+progress SVN r15521 branch master = :39
+progress SVN r15524 branch master = :40
+progress SVN r15525 branch master = :41
+progress SVN r15528 branch master = :42
+progress SVN r15529 branch master = :43
+progress SVN r15531 branch master = :44
+progress SVN r15532 branch master = :45
+progress SVN r15533 branch master = :46
+progress SVN r15534 branch master = :47
+progress SVN r15536 branch master = :48
+progress SVN r15537 branch production = :49 # merge from :23
+progress SVN r15538 branch master = :50
+progress SVN r15539 branch production = :51 # merge from :50
+progress SVN r15542 branch master = :52
+progress SVN r15543 branch master = :53
+progress SVN r15560 branch master = :54
+progress SVN r15561 branch master = :55
+progress SVN r15562 branch master = :56
+progress SVN r15563 branch master = :57
+progress SVN r15564 branch master = :58
+progress SVN r15583 branch master = :59
+progress SVN r15584 branch master = :60
+progress SVN r15585 branch master = :61
+progress SVN r15586 branch master = :62
+progress SVN r15587 branch master = :63
+progress SVN r15625 branch master = :64
+progress SVN r15630 branch master = :65
+progress SVN r15632 branch master = :66
+progress SVN r15633 branch master = :67
+progress SVN r15640 branch master = :68
+progress SVN r15644 branch master = :69
+progress SVN r15647 branch master = :70
+progress SVN r15648 branch master = :71
+progress SVN r15651 branch master = :72
+progress SVN r15652 branch production = :73 # merge from :69
+progress SVN r15653 branch master = :74
+progress SVN r15654 branch master = :75
+progress SVN r15655 branch master = :76
+progress SVN r15656 branch master = :77
+progress SVN r15669 branch master = :78
+progress SVN r15670 branch master = :79
+progress SVN r15671 branch master = :80
+progress SVN r15674 branch master = :81
+progress SVN r15675 branch master = :82
+progress SVN r15676 branch master = :83
+progress SVN r15677 branch master = :84
+progress SVN r15678 branch master = :85
+progress SVN r15679 branch master = :86
+progress SVN r15680 branch master = :87
+progress SVN r15681 branch master = :88
+progress SVN r15682 branch production = :89 # merge from :63
+progress SVN r15683 branch master = :90
+progress SVN r15684 branch production = :91
+progress SVN r15685 branch master = :92
+progress SVN r15723 branch master = :93
+progress SVN r15724 branch master = :94
+progress SVN r15727 branch master = :95
+progress SVN r15732 branch master = :96
+progress SVN r15746 branch master = :97
+progress SVN r15749 branch master = :98
+progress SVN r15750 branch master = :99
+progress SVN r15751 branch master = :100
+progress SVN r15752 branch master = :101
+progress SVN r15757 branch master = :102
+progress SVN r15758 branch master = :103
+progress SVN r15760 branch master = :104
+progress SVN r15761 branch master = :105
+progress SVN r15762 branch master = :106
+progress SVN r15766 branch master = :107
+progress SVN r15767 branch production = :108
+progress SVN r15768 branch master = :109
+progress SVN r15769 branch production = :110
+progress SVN r15770 branch master = :111
+progress SVN r15771 branch master = :112
+progress SVN r15772 branch master = :113
+progress SVN r15773 branch master = :114
+progress SVN r15774 branch master = :115
+progress SVN r15775 branch master = :116
+progress SVN r15777 branch master = :117
+progress SVN r15786 branch master = :118
+progress SVN r15793 branch master = :119
+progress SVN r15794 branch master = :120
+progress SVN r15795 branch master = :121
+progress SVN r15796 branch master = :122
+progress SVN r15797 branch master = :123
+progress SVN r15798 branch master = :124
+progress SVN r15799 branch master = :125
+progress SVN r15812 branch master = :126
+progress SVN r15813 branch master = :127
+progress SVN r15814 branch master = :128
+progress SVN r15815 branch master = :129
+progress SVN r15816 branch master = :130
+progress SVN r15817 branch master = :131
+progress SVN r15819 branch master = :132
+progress SVN r15820 branch master = :133
+progress SVN r15823 branch master = :134
+progress SVN r15824 branch master = :135
+progress SVN r15827 branch master = :136
+progress SVN r15828 branch production = :137
+progress SVN r15829 branch production = :138
+progress SVN r15830 branch master = :139
+progress SVN r15831 branch production = :140
+progress SVN r15832 branch master = :141
+progress SVN r15833 branch master = :142
+progress SVN r15835 branch master = :143
+progress SVN r15836 branch master = :144
+progress SVN r15837 branch master = :145
+progress SVN r15838 branch master = :146
+progress SVN r15839 branch master = :147
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:         1536 (      1451 duplicates                  )
+      blobs  :         1244 (      1449 duplicates       1118 deltas of       1134 attempts)
+      trees  :          145 (         2 duplicates        131 deltas of        133 attempts)
+      commits:          147 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         2 loads     )
+      marks:        1048576 (       853 unique    )
+      atoms:            787
+Memory total:          2407 KiB
+       pools:          2173 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          2
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =    6086105 /    6086105
+---------------------------------------------------------------------
+

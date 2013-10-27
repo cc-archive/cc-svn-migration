@@ -1,0 +1,29 @@
+progress SVN r6608 branch master = :1
+progress SVN r6616 branch master = :2
+progress SVN r6621 branch master = :3
+progress SVN r6726 branch master = :4
+progress SVN r9828 branch master = :5
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           33 (         0 duplicates                  )
+      blobs  :           22 (         0 duplicates          5 deltas of         22 attempts)
+      trees  :            6 (         0 duplicates          4 deltas of          6 attempts)
+      commits:            5 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        18 unique    )
+      atoms:             16
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      66442 /      66442
+---------------------------------------------------------------------
+

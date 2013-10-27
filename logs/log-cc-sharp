@@ -1,0 +1,33 @@
+progress SVN r3860 branch master = :1
+progress SVN r3862 branch master = :2
+progress SVN r3863 branch master = :3
+progress SVN r3864 branch master = :4
+progress SVN r3865 branch master = :5
+progress SVN r3866 branch master = :6
+progress SVN r3888 branch master = :7
+progress SVN r3899 branch tag--release-0.1 = :7 # from branch master at r3898 => r3888
+progress SVN r3908 branch master = :8
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           68 (         1 duplicates                  )
+      blobs  :           42 (         1 duplicates         25 deltas of         42 attempts)
+      trees  :           18 (         0 duplicates          9 deltas of         18 attempts)
+      commits:            8 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         1 loads     )
+      marks:        1048576 (        23 unique    )
+      atoms:             28
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          3
+pack_report: pack_mmap_calls          =          2
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      44887 /      44887
+---------------------------------------------------------------------
+

@@ -1,0 +1,46 @@
+progress SVN r15189 branch master = :1
+progress SVN r15190 branch master = :2
+progress SVN r15191 branch master = :3
+progress SVN r15192 branch master = :4
+progress SVN r15193 branch master = :5
+progress SVN r15198 branch master = :6
+progress SVN r15199 branch master = :7
+progress SVN r15229 branch master = :8
+progress SVN r15230 branch master = :9
+progress SVN r15231 branch master = :10
+progress SVN r15450 branch master = :11
+progress SVN r15451 branch master = :12
+progress SVN r15452 branch master = :13
+progress SVN r15514 branch master = :14
+progress SVN r15523 branch master = :15
+progress SVN r15672 branch master = :16
+progress SVN r15673 branch master = :17
+progress SVN r15712 branch master = :18
+progress SVN r15742 branch master = :19
+progress SVN r15743 branch master = :20
+progress SVN r15764 branch master = :21
+progress SVN r15765 branch master = :22
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           76 (         3 duplicates                  )
+      blobs  :           31 (         3 duplicates         26 deltas of         29 attempts)
+      trees  :           23 (         0 duplicates         20 deltas of         22 attempts)
+      commits:           22 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        28 unique    )
+      atoms:              4
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      34892 /      34892
+---------------------------------------------------------------------
+

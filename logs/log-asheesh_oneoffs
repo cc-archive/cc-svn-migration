@@ -1,0 +1,60 @@
+progress SVN r7393 branch master = :1
+progress SVN r8284 branch master = :2
+progress SVN r9406 branch master = :3
+progress SVN r9409 branch master = :4
+progress SVN r9411 branch master = :5
+progress SVN r9412 branch master = :6
+progress SVN r9413 branch master = :7
+progress SVN r9414 branch master = :8
+progress SVN r9424 branch master = :9
+progress SVN r9425 branch master = :10
+progress SVN r9439 branch master = :11
+progress SVN r9440 branch master = :12
+progress SVN r9445 branch master = :13
+progress SVN r11113 branch master = :14
+progress SVN r11114 branch master = :15
+progress SVN r11115 branch master = :16
+progress SVN r11116 branch master = :17
+progress SVN r11117 branch master = :18
+progress SVN r11118 branch master = :19
+progress SVN r11119 branch master = :20
+progress SVN r11580 branch master = :21
+progress SVN r11601 branch master = :22
+progress SVN r11603 branch master = :23
+progress SVN r11609 branch master = :24
+progress SVN r11612 branch master = :25
+progress SVN r11613 branch master = :26
+progress SVN r11614 branch master = :27
+progress SVN r11618 branch master = :28
+progress SVN r11622 branch master = :29
+progress SVN r11635 branch master = :30
+progress SVN r11636 branch master = :31
+progress SVN r11816 branch master = :32
+progress SVN r11817 branch master = :33
+progress SVN r12029 branch master = :34
+progress SVN r12125 branch master = :35
+progress SVN r13378 branch master = :36
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          130 (         7 duplicates                  )
+      blobs  :           34 (         4 duplicates         19 deltas of         31 attempts)
+      trees  :           60 (         3 duplicates         36 deltas of         58 attempts)
+      commits:           36 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        39 unique    )
+      atoms:             20
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      23956 /      23956
+---------------------------------------------------------------------
+

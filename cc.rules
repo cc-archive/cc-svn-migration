@@ -1,0 +1,316 @@
+#
+# Repositories
+#
+
+# /project/(trunk|branches|tags)/
+
+create repository __cvs_import
+end repository
+create repository api
+end repository
+create repository api_client
+end repository
+create repository campaign_widget
+end repository
+create repository cc-content.deb
+end repository
+create repository cc-sharp
+end repository
+create repository cc.engine
+end repository
+create repository cc.license
+end repository
+create repository ccbanshee
+end repository
+create repository cchost
+end repository
+create repository cci
+end repository
+create repository cclib
+end repository
+create repository cclicense
+end repository
+create repository cclookup
+end repository
+create repository ccnutch
+end repository
+create repository ccooo
+end repository
+create repository ccpublisher1
+end repository
+create repository ccrdf
+end repository
+create repository ccsearch
+end repository
+create repository cctagutils
+end repository
+create repository cli_tools
+end repository
+create repository desktop_search
+end repository
+create repository feed2map
+end repository
+create repository i18n
+end repository
+create repository i18nedit
+end repository
+create repository jswidget
+end repository
+create repository liblicense
+end repository
+create repository liblicense-gnome
+end repository
+create repository liblicense-kde
+end repository
+create repository liblicense-sugar
+end repository
+create repository license-tutorial
+end repository
+create repository license.rdf
+end repository
+create repository license_xsl
+end repository
+create repository metadata_scraper
+end repository
+create repository mozcc2
+end repository
+create repository opml
+end repository
+create repository pyarchive
+end repository
+create repository pywikipedia
+end repository
+create repository rdfadict
+end repository
+create repository wordpressmu
+end repository
+create repository wpLicense
+end repository
+create repository www-i
+end repository
+create repository zope_products
+end repository
+
+# /project/trunk/
+
+create repository apache_vhost_configs
+end repository
+create repository autocurate
+end repository
+create repository blog_analysis
+end repository
+create repository experimental
+end repository
+create repository operator_userscript
+end repository
+create repository pdf_callback
+end repository
+
+# /project/(trunk|branches)/
+
+create repository legalcode
+end repository
+
+# /project/(trunk|tags)/
+
+create repository adobe_panel
+end repository
+
+# /project/(trunk|branches|tags|vendor)/
+
+create repository bbpress
+end repository
+create repository ccoer
+end repository
+create repository ccwordpress
+end repository
+create repository oenutch
+end repository
+create repository planet
+end repository
+
+# /project/(trunk|branches|tags|<something else>)/
+
+create repository livecontent
+# branches/
+# f8-minimal/
+# tags/
+# trunk/
+end repository
+
+create repository nc-survey
+# historical/
+# trunk/
+end repository
+
+create repository oe_search
+# branches/
+# tags/
+# trunk/
+# www
+end repository
+
+#
+# Very non-standard repositories (no trunk)
+#
+
+create repository asheesh_oneoffs
+end repository
+create repository banshee-license-verifier-plugin
+end repository
+create repository buildout_script
+end repository
+create repository cclabs
+end repository
+create repository hooks
+end repository
+create repository log_analysis
+end repository
+create repository manahej
+end repository
+create repository nagios
+end repository
+create repository scicom
+end repository
+create repository scripts
+end repository
+create repository smw_tools
+end repository
+create repository stats
+end repository
+create repository vendorlibs
+end repository
+create repository widgets
+end repository
+create repository xmp
+end repository
+
+create repository theme-ccwiki
+end repository
+create repository theme-creativecommons.org
+end repository
+create repository theme-planet
+end repository
+
+create repository xmp-jpeg-php
+end repository
+create repository xmp-pjmt
+end repository
+create repository xmp-pdf_license_manager
+end repository
+
+# Other historical repositories (not in latest revision)
+
+# all projects used to be under a single trunk, track these as one repo
+create repository old-svn-root
+end repository
+
+create repository ccpublisher2
+end repository
+create repository www-scicom
+end repository
+
+#
+# Declare the rules
+# Note: rules must end in a slash
+#
+
+#
+# OLD structure, with trunk|branches|tags at root:
+#
+
+match /trunk/
+  repository old-svn-root
+  branch master
+end match
+match /branches/([^/]+)/
+  repository old-svn-root
+  branch \1
+end match
+match /tags/([^/]+)/
+  repository old-svn-root
+  branch tag--\1
+end match
+
+#
+# NEW structure, with project name at root:
+#
+
+# Ignore CVS directories (...seriously!)
+match /([^/]+)/CVS/
+end match
+
+# cci18nedit -> i18nedit
+match /cci18nedit/
+  repository i18nedit
+  branch master
+end match
+
+# These rules catch most projects that have a standard
+# {trunk, branches, tags} structure.
+# We have a catch-all rule at the bottom to get any
+# extra files projects have outside the usual structure
+
+match /([^/]+)/trunk/
+  repository \1
+  branch master
+end match
+match /([^/]+)/branches/([^/]+)/
+  repository \1
+  branch \2
+end match
+match /([^/]+)/tags/([^/]+)/
+  repository \1
+  branch tag--\2
+end match
+
+# some projects are one level deeper
+match /(theme|xmp)s?/([^/]+)/trunk/
+  repository \1-\2
+  branch master
+end match
+match /(theme|xmp)s?/([^/]+)/branches/([^/]+)/
+  repository \1-\2
+  branch \3
+end match
+match /(theme|xmp)s?/([^/]+)/tags/([^/]+)/
+  repository \1-\2
+  branch tag--\3
+end match
+match /(theme|xmp)s?/([^/]+)/
+  repository \1-\2
+  branch master
+end match
+
+# buildout.script -> buildout_script
+match /buildout.script/
+  repository buildout_script
+  branch master
+end match
+
+# rdfadict_trunk -> rdfadict
+match /rdfadict_trunk/
+  repository rdfadict
+  branch master
+end match
+
+# wtf? Ignore files at root
+match /(Makefile|liblicense.[ch]|liblicense.gch|test)
+end match
+
+# Ignore random build stuff
+match /(Lib|build|dist|nbproject|src)/
+end match
+match /build.xml
+end match
+
+# Ignore temp nagios stuff, it gets removed and readded later w/ a diff name
+match /nagios_conf/
+end match
+
+# Catch-all: If there are other toplevel project files
+# outside of {trunk, branches, tags}, assume they go in master
+match /([^/]+)/
+  repository \1
+  branch master
+end match

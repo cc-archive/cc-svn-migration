@@ -1,0 +1,51 @@
+progress SVN r6567 branch master = :1
+progress SVN r6991 branch master = :2
+progress SVN r6992 branch master = :3
+progress SVN r6993 branch master = :4
+progress SVN r6998 branch linked_cse_branch = :2 # from branch master at r6991
+progress SVN r6998 branch linked_cse_branch = :5 # merge from :3 :4
+progress SVN r6999 branch master = :0 # delete
+progress SVN r6999 branch deprecated_hosted_cse_branch = :2 # from branch master at r6991
+progress SVN r6999 branch deprecated_hosted_cse_branch = :6 # merge from :4
+progress SVN r7000 branch linked_cse_branch = :0 # delete
+progress SVN r7000 branch master = :5 # from branch linked_cse_branch at r6998
+progress SVN r7009 branch master = :7
+progress SVN r7060 branch master = :8
+progress SVN r7062 branch master = :9
+progress SVN r7150 branch master = :10
+progress SVN r7153 branch master = :11
+progress SVN r7165 branch master = :12
+progress SVN r7175 branch master = :13
+progress SVN r7176 branch master = :14
+progress SVN r7188 branch master = :15
+progress SVN r7193 branch master = :16
+progress SVN r7194 branch master = :17
+progress SVN r7195 branch master = :18
+progress SVN r7233 branch master = :19
+progress SVN r7235 branch master = :20
+progress SVN r7236 branch master = :21
+progress SVN r7244 branch master = :22
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          151 (        83 duplicates                  )
+      blobs  :           83 (        68 duplicates         29 deltas of         81 attempts)
+      trees  :           46 (        15 duplicates         30 deltas of         44 attempts)
+      commits:           22 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           5 (         3 loads     )
+      marks:        1048576 (        66 unique    )
+      atoms:             55
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         19
+pack_report: pack_mmap_calls          =          9
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      79577 /      79577
+---------------------------------------------------------------------
+

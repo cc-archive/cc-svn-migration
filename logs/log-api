@@ -1,0 +1,184 @@
+progress SVN r3166 branch rest_1_0 = :1
+progress SVN r3166 branch master = :2
+progress SVN r3166 branch rest_1_5 = :3
+progress SVN r3174 branch master = :4
+progress SVN r3188 branch master = :5
+progress SVN r3189 branch master = :6
+progress SVN r3201 branch master = :7
+progress SVN r3202 branch master = :8
+progress SVN r3203 branch rest_1_5 = :0 # delete
+progress SVN r3204 branch rest_1_0 = :9
+progress SVN r3205 branch rest_1_0 = :10
+progress SVN r3206 branch rest_1_0 = :11
+progress SVN r3209 branch master = :12
+progress SVN r3210 branch master = :13
+progress SVN r3211 branch master = :14
+progress SVN r3212 branch master = :15
+progress SVN r3213 branch master = :16
+progress SVN r3301 branch master = :17
+progress SVN r3308 branch master = :18
+progress SVN r3309 branch master = :19
+progress SVN r3311 branch master = :20
+progress SVN r3378 branch master = :21
+progress SVN r3591 branch master = :22
+progress SVN r3598 branch master = :23
+progress SVN r3599 branch master = :24
+progress SVN r3600 branch master = :25
+progress SVN r3621 branch master = :26
+progress SVN r3622 branch master = :27
+progress SVN r3623 branch master = :28
+progress SVN r3624 branch tag--deployment-sanity-branchpoint = :28 # from branch master
+progress SVN r3625 branch deployment-sanity-branch = :28 # from branch master at r3624 => r3623
+progress SVN r3626 branch deployment-sanity-branch = :29
+progress SVN r3627 branch deployment-sanity-branch = :30
+progress SVN r3628 branch deployment-sanity-branch = :31
+progress SVN r3696 branch master = :32
+progress SVN r3791 branch rest_1_0 = :33
+progress SVN r4021 branch master = :34
+progress SVN r4022 branch master = :35
+progress SVN r4025 branch master = :36
+progress SVN r4026 branch master = :37
+progress SVN r4422 branch master = :38
+progress SVN r4980 branch tag--pre-pastification = :38 # from branch master at r4979 => r4422
+progress SVN r4981 branch master = :39
+progress SVN r4982 branch master = :40
+progress SVN r4983 branch master = :41
+progress SVN r4984 branch master = :42
+progress SVN r4985 branch master = :43
+progress SVN r4998 branch master = :44
+progress SVN r4999 branch master = :45
+progress SVN r5000 branch master = :46
+progress SVN r5001 branch master = :47
+progress SVN r5004 branch master = :48
+progress SVN r5090 branch master = :49
+progress SVN r5091 branch master = :50
+progress SVN r5462 branch master = :51
+progress SVN r5463 branch master = :52
+progress SVN r5464 branch master = :53
+progress SVN r5479 branch master = :54
+progress SVN r5484 branch master = :55
+progress SVN r5491 branch master = :56
+progress SVN r5492 branch master = :57
+progress SVN r5506 branch master = :58
+progress SVN r5635 branch master = :59
+progress SVN r5636 branch master = :60
+progress SVN r5717 branch master = :61
+progress SVN r6181 branch master = :62
+progress SVN r6301 branch master = :63
+progress SVN r7565 branch master = :64
+progress SVN r7566 branch master = :65
+progress SVN r9167 branch master = :66
+progress SVN r10171 branch paste-test-suite-branch = :31 # from branch deployment-sanity-branch at r10170 => r3628
+progress SVN r10175 branch paste-test-suite-branch = :67
+progress SVN r10185 branch paste-test-suite-branch = :0 # delete
+progress SVN r10185 branch nose-test-suite-branch = :66 # from branch master at r10184 => r9167
+progress SVN r10185 branch nose-test-suite-branch = :68
+progress SVN r10186 branch nose-test-suite-branch = :69
+progress SVN r10192 branch nose-test-suite-branch = :70
+progress SVN r10193 branch master = :71
+progress SVN r10194 branch nose-test-suite-branch = :72
+progress SVN r10195 branch nose-test-suite-branch = :73
+progress SVN r10203 branch nose-test-suite-branch = :74
+progress SVN r10204 branch nose-test-suite-branch = :75
+progress SVN r10205 branch nose-test-suite-branch = :76
+progress SVN r10210 branch nose-test-suite-branch = :77
+progress SVN r10226 branch nose-test-suite-branch = :78
+progress SVN r10229 branch nose-test-suite-branch = :79
+progress SVN r10230 branch nose-test-suite-branch = :80
+progress SVN r10231 branch nose-test-suite-branch = :81
+progress SVN r10233 branch nose-test-suite-branch = :82
+progress SVN r10235 branch nose-test-suite-branch = :83
+progress SVN r10236 branch nose-test-suite-branch = :84
+progress SVN r10237 branch nose-test-suite-branch = :85
+progress SVN r10239 branch nose-test-suite-branch = :86
+progress SVN r10240 branch nose-test-suite-branch = :87
+progress SVN r10241 branch nose-test-suite-branch = :88
+progress SVN r10246 branch nose-test-suite-branch = :89
+progress SVN r10247 branch nose-test-suite-branch = :90
+progress SVN r10249 branch nose-test-suite-branch = :91
+progress SVN r10250 branch nose-test-suite-branch = :92
+progress SVN r10255 branch nose-test-suite-branch = :93
+progress SVN r10256 branch nose-test-suite-branch = :94
+progress SVN r10257 branch nose-test-suite-branch = :95
+progress SVN r10258 branch nose-test-suite-branch = :96
+progress SVN r10267 branch nose-test-suite-branch = :97
+progress SVN r10270 branch nose-test-suite-branch = :98
+progress SVN r10271 branch nose-test-suite-branch = :99
+progress SVN r10274 branch nose-test-suite-branch = :100
+progress SVN r10275 branch nose-test-suite-branch = :101
+progress SVN r10276 branch nose-test-suite-branch = :102
+progress SVN r10278 branch nose-test-suite-branch = :103
+progress SVN r10279 branch nose-test-suite-branch = :104
+progress SVN r10280 branch nose-test-suite-branch = :105
+progress SVN r10281 branch nose-test-suite-branch = :106
+progress SVN r10282 branch nose-test-suite-branch = :107
+progress SVN r10283 branch nose-test-suite-branch = :108
+progress SVN r10284 branch nose-test-suite-branch = :109
+progress SVN r10285 branch nose-test-suite-branch = :110
+progress SVN r10288 branch nose-test-suite-branch = :111
+progress SVN r10295 branch nose-test-suite-branch = :112
+progress SVN r10296 branch nose-test-suite-branch = :113
+progress SVN r10297 branch nose-test-suite-branch = :114
+progress SVN r10298 branch nose-test-suite-branch = :115
+progress SVN r10299 branch nose-test-suite-branch = :116
+progress SVN r10310 branch nose-test-suite-branch = :117
+progress SVN r10312 branch nose-test-suite-branch = :118
+progress SVN r10315 branch nose-test-suite-branch = :119
+progress SVN r10316 branch nose-test-suite-branch = :120
+progress SVN r10322 branch nose-test-suite-branch = :121
+progress SVN r10323 branch nose-test-suite-branch = :122
+progress SVN r10324 branch nose-test-suite-branch = :123
+progress SVN r10325 branch nose-test-suite-branch = :124
+progress SVN r10328 branch nose-test-suite-branch = :125
+progress SVN r10331 branch nose-test-suite-branch = :126
+progress SVN r10332 branch nose-test-suite-branch = :127
+progress SVN r10339 branch nose-test-suite-branch = :128
+progress SVN r10341 branch nose-test-suite-branch = :129
+progress SVN r10342 branch nose-test-suite-branch = :130
+progress SVN r10343 branch nose-test-suite-branch = :131
+progress SVN r10345 branch nose-test-suite-branch = :132
+progress SVN r10351 branch nose-test-suite-branch = :133
+progress SVN r12017 branch master = :134 # merge from :133
+progress SVN r12018 branch master = :135
+progress SVN r12019 branch master = :136
+progress SVN r12020 branch master = :137
+progress SVN r12578 branch chained_chooser = :137 # from branch master at r12515 => r12020
+progress SVN r12578 branch chained_chooser = :138
+progress SVN r13014 branch master = :139
+progress SVN r13396 branch master = :140
+progress SVN r13397 branch master = :141
+progress SVN r13405 branch master = :142
+progress SVN r14085 branch nose-test-suite-branch = :143
+progress SVN r14090 branch nose-test-suite-branch = :144
+progress SVN r14102 branch nose-test-suite-branch = :145
+progress SVN r14103 branch nose-test-suite-branch = :146
+progress SVN r14104 branch nose-test-suite-branch = :147
+progress SVN r14105 branch nose-test-suite-branch = :148
+progress SVN r14106 branch nose-test-suite-branch = :149
+progress SVN r14129 branch nose-test-suite-branch = :150
+progress SVN r14144 branch nose-test-suite-branch = :151
+progress SVN r14145 branch nose-test-suite-branch = :152
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:         1491 (       141 duplicates                  )
+      blobs  :          992 (       132 duplicates        642 deltas of        955 attempts)
+      trees  :          347 (         9 duplicates        251 deltas of        330 attempts)
+      commits:          152 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:          11 (         7 loads     )
+      marks:        1048576 (       966 unique    )
+      atoms:            662
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         83
+pack_report: pack_mmap_calls          =         11
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =    1392245 /    1392245
+---------------------------------------------------------------------
+

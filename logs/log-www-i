@@ -1,0 +1,42 @@
+progress SVN r4152 branch master = :1
+progress SVN r4155 branch master = :2
+progress SVN r4266 branch master = :3
+progress SVN r5003 branch master = :4
+progress SVN r5005 branch master = :5
+progress SVN r5374 branch master = :6
+progress SVN r5375 branch master = :7
+progress SVN r5381 branch master = :8
+progress SVN r8350 branch master = :9
+progress SVN r9169 branch master = :10
+progress SVN r13739 branch master = :11
+progress SVN r13740 branch master = :12
+progress SVN r14826 branch master = :13
+progress SVN r14833 branch master = :14
+progress SVN r14834 branch master = :15
+progress SVN r14857 branch master = :16
+progress SVN r14862 branch master = :17
+progress SVN r15800 branch master = :18
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          291 (      2167 duplicates                  )
+      blobs  :           74 (      1372 duplicates         47 deltas of         69 attempts)
+      trees  :          199 (       795 duplicates         47 deltas of        198 attempts)
+      commits:           18 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (      1046 unique    )
+      atoms:            123
+Memory total:          2407 KiB
+       pools:          2173 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     136272 /     136272
+---------------------------------------------------------------------
+

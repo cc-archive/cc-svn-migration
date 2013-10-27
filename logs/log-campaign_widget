@@ -1,0 +1,70 @@
+progress SVN r7611 branch master = :1
+progress SVN r7615 branch master = :2
+progress SVN r7616 branch master = :3
+progress SVN r7617 branch master = :4
+progress SVN r7669 branch master = :5
+progress SVN r7680 branch master = :6
+progress SVN r7681 branch master = :7
+progress SVN r7683 branch master = :8
+progress SVN r7708 branch master = :9
+progress SVN r7714 branch master = :10
+progress SVN r7715 branch master = :11
+progress SVN r7727 branch master = :12
+progress SVN r7728 branch master = :13
+progress SVN r7730 branch master = :14
+progress SVN r7783 branch master = :15
+progress SVN r7785 branch master = :16
+progress SVN r7788 branch master = :17
+progress SVN r7821 branch master = :18
+progress SVN r8473 branch master = :19
+progress SVN r8477 branch master = :20
+progress SVN r10801 branch master = :21
+progress SVN r10802 branch master = :22
+progress SVN r10803 branch master = :23
+progress SVN r10804 branch master = :24
+progress SVN r10805 branch master = :25
+progress SVN r10806 branch master = :26
+progress SVN r10807 branch master = :27
+progress SVN r10810 branch master = :28
+progress SVN r10813 branch master = :29
+progress SVN r10816 branch master = :30
+progress SVN r10817 branch master = :31
+progress SVN r10818 branch master = :32
+progress SVN r10821 branch master = :33
+progress SVN r10823 branch master = :34
+progress SVN r10824 branch master = :35
+progress SVN r10825 branch master = :36
+progress SVN r10830 branch master = :37
+progress SVN r10831 branch master = :38
+progress SVN r10833 branch master = :39
+progress SVN r10834 branch master = :40
+progress SVN r10861 branch master = :41
+progress SVN r10905 branch master = :42
+progress SVN r10906 branch master = :43
+progress SVN r10907 branch master = :44
+progress SVN r15321 branch master = :45
+progress SVN r15322 branch master = :46
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          204 (         2 duplicates                  )
+      blobs  :          107 (         2 duplicates         39 deltas of        106 attempts)
+      trees  :           51 (         0 duplicates         43 deltas of         47 attempts)
+      commits:           46 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        81 unique    )
+      atoms:             56
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     159986 /     159986
+---------------------------------------------------------------------
+

@@ -1,0 +1,37 @@
+progress SVN r4988 branch master = :1
+progress SVN r4989 branch master = :2
+progress SVN r4990 branch master = :3
+progress SVN r4992 branch master = :0 # delete
+progress SVN r4993 branch master = :4
+progress SVN r4994 branch master = :5
+progress SVN r4995 branch master = :6
+progress SVN r4996 branch master = :7
+progress SVN r4997 branch master = :8
+progress SVN r5582 branch master = :9
+progress SVN r5583 branch master = :10
+progress SVN r5585 branch master = :11
+progress SVN r5586 branch master = :12
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           67 (        18 duplicates                  )
+      blobs  :           31 (        15 duplicates          6 deltas of         29 attempts)
+      trees  :           24 (         3 duplicates         15 deltas of         24 attempts)
+      commits:           12 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         1 loads     )
+      marks:        1048576 (        24 unique    )
+      atoms:             20
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          2
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      21943 /      21943
+---------------------------------------------------------------------
+

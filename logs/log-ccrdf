@@ -1,0 +1,48 @@
+progress SVN r3168 branch master = :1
+progress SVN r5204 branch master = :2
+progress SVN r5208 branch master = :3
+progress SVN r5276 branch tag--20070212 = :3 # from branch master at r5275 => r5208
+progress SVN r5277 branch master = :4
+progress SVN r5315 branch master = :5
+progress SVN r5316 branch master = :6
+progress SVN r5324 branch master = :7
+progress SVN r5325 branch master = :8
+progress SVN r5326 branch master = :9
+progress SVN r5327 branch master = :10
+progress SVN r5328 branch master = :11
+progress SVN r5329 branch tag--ccrdf-0.6a1 = :3 # from branch master at r5275 => r5208
+progress SVN r5329 branch master = :12
+progress SVN r5329 branch tag--ccrdf-0.6a1 = :13 # merge from :4 :11 :7 :9 :10 :8
+progress SVN r5335 branch master = :14
+progress SVN r5336 branch master = :15
+progress SVN r5337 branch master = :16
+progress SVN r5339 branch master = :17
+progress SVN r5340 branch master = :18
+progress SVN r5341 branch master = :19
+progress SVN r5370 branch master = :20
+progress SVN r5371 branch master = :21
+progress SVN r10025 branch master = :22
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           96 (        27 duplicates                  )
+      blobs  :           39 (        24 duplicates         18 deltas of         35 attempts)
+      trees  :           35 (         3 duplicates         31 deltas of         34 attempts)
+      commits:           22 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           3 (         2 loads     )
+      marks:        1048576 (        42 unique    )
+      atoms:             20
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         10
+pack_report: pack_mmap_calls          =          4
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      46579 /      46579
+---------------------------------------------------------------------
+

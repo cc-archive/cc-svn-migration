@@ -1,0 +1,39 @@
+progress SVN r3168 branch master = :1
+progress SVN r3323 branch master = :2
+progress SVN r3324 branch master = :3
+progress SVN r3325 branch master = :4
+progress SVN r5127 branch tag--cclookup_22jan2007 = :4 # from branch master at r5126 => r3325
+progress SVN r5154 branch master = :5
+progress SVN r5155 branch master = :6
+progress SVN r5206 branch master = :7
+progress SVN r5207 branch master = :8
+progress SVN r5211 branch master = :9
+progress SVN r5212 branch master = :10
+progress SVN r5214 branch master = :11
+progress SVN r5283 branch master = :12
+progress SVN r5426 branch master = :13
+progress SVN r5427 branch master = :14
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          103 (        14 duplicates                  )
+      blobs  :           65 (        13 duplicates         32 deltas of         62 attempts)
+      trees  :           24 (         1 duplicates         14 deltas of         23 attempts)
+      commits:           14 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         1 loads     )
+      marks:        1048576 (        61 unique    )
+      atoms:             57
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          3
+pack_report: pack_mmap_calls          =          2
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =    1182659 /    1182659
+---------------------------------------------------------------------
+

@@ -1,0 +1,124 @@
+progress SVN r7592 branch master = :1
+progress SVN r7965 branch master = :2
+progress SVN r8183 branch master = :3
+progress SVN r8184 branch master = :4
+progress SVN r8187 branch master = :5
+progress SVN r8188 branch master = :6
+progress SVN r8189 branch master = :7
+progress SVN r8190 branch master = :8
+progress SVN r8191 branch master = :9
+progress SVN r8192 branch master = :10
+progress SVN r8193 branch master = :11
+progress SVN r8194 branch master = :12
+progress SVN r8195 branch master = :13
+progress SVN r8202 branch master = :14
+progress SVN r8203 branch master = :15
+progress SVN r8204 branch master = :16
+progress SVN r8205 branch master = :17
+progress SVN r8207 branch master = :18
+progress SVN r8208 branch master = :19
+progress SVN r8209 branch master = :20
+progress SVN r8210 branch master = :21
+progress SVN r8211 branch master = :22
+progress SVN r8298 branch master = :23
+progress SVN r8354 branch master = :24
+progress SVN r8367 branch master = :25
+progress SVN r8368 branch master = :26
+progress SVN r8369 branch master = :27
+progress SVN r8378 branch master = :28
+progress SVN r8384 branch master = :29
+progress SVN r8387 branch master = :30
+progress SVN r8388 branch master = :31
+progress SVN r8389 branch master = :32
+progress SVN r8432 branch master = :33
+progress SVN r8437 branch master = :34
+progress SVN r8464 branch master = :35
+progress SVN r8509 branch master = :36
+progress SVN r8575 branch master = :37
+progress SVN r8733 branch master = :38
+progress SVN r8734 branch master = :39
+progress SVN r8763 branch master = :40
+progress SVN r9021 branch master = :41
+progress SVN r9023 branch master = :42
+progress SVN r9095 branch master = :43
+progress SVN r9153 branch master = :44
+progress SVN r9155 branch master = :45
+progress SVN r9156 branch production = :45 # from branch master
+progress SVN r9157 branch master = :46
+progress SVN r9159 branch production = :47
+progress SVN r9161 branch master = :48
+progress SVN r9162 branch production = :49
+progress SVN r9163 branch master = :50
+progress SVN r9164 branch production = :51
+progress SVN r9166 branch production = :52
+progress SVN r9185 branch production = :53
+progress SVN r9186 branch production = :54
+progress SVN r9188 branch production = :55
+progress SVN r9535 branch master = :56
+progress SVN r9536 branch production = :57
+progress SVN r9842 branch master = :58
+progress SVN r9843 branch production = :59
+progress SVN r9844 branch master = :60
+progress SVN r9845 branch production = :61
+progress SVN r9897 branch master = :62
+progress SVN r9898 branch production = :63
+progress SVN r10187 branch master = :64
+progress SVN r10188 branch master = :65
+progress SVN r10189 branch production = :66
+progress SVN r10190 branch master = :67
+progress SVN r10191 branch production = :68
+progress SVN r12323 branch master = :69
+progress SVN r12324 branch production = :70
+progress SVN r12328 branch master = :71
+progress SVN r12329 branch production = :72
+progress SVN r13276 branch master = :73
+progress SVN r13277 branch production = :74
+progress SVN r13278 branch master = :75
+progress SVN r13279 branch production = :76
+progress SVN r13537 branch master = :77
+progress SVN r13538 branch master = :78
+progress SVN r13539 branch master = :79
+progress SVN r13540 branch master = :80
+progress SVN r13542 branch master = :81
+progress SVN r13543 branch production = :82
+progress SVN r13546 branch master = :83
+progress SVN r13547 branch production = :84
+progress SVN r13552 branch master = :85
+progress SVN r13553 branch master = :86
+progress SVN r13554 branch master = :87
+progress SVN r13555 branch master = :88
+progress SVN r13556 branch production = :89 # merge from :88
+progress SVN r13557 branch master = :90
+progress SVN r13558 branch production = :91
+progress SVN r13559 branch master = :92
+progress SVN r13560 branch production = :93
+progress SVN r13564 branch master = :94
+progress SVN r13565 branch production = :95 # merge from :94
+progress SVN r13609 branch master = :96
+progress SVN r13610 branch production = :97
+progress SVN r13904 branch master = :98
+progress SVN r13905 branch production = :99
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:         2250 (      1945 duplicates                  )
+      blobs  :         1490 (      1721 duplicates        387 deltas of       1474 attempts)
+      trees  :          661 (       224 duplicates        297 deltas of        640 attempts)
+      commits:           99 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         2 loads     )
+      marks:        1048576 (      1446 unique    )
+      atoms:           1552
+Memory total:          2407 KiB
+       pools:          2173 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =        151
+pack_report: pack_mmap_calls          =          9
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =    3464866 /    3464866
+---------------------------------------------------------------------
+

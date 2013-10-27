@@ -1,0 +1,38 @@
+progress SVN r11120 branch master = :1
+progress SVN r11121 branch master = :2
+progress SVN r11122 branch master = :3
+progress SVN r11123 branch master = :4
+progress SVN r11124 branch master = :5
+progress SVN r11125 branch master = :6
+progress SVN r11127 branch master = :7
+progress SVN r11208 branch master = :8
+progress SVN r11211 branch master = :9
+progress SVN r11229 branch master = :10
+progress SVN r11231 branch master = :11
+progress SVN r11889 branch master = :12
+progress SVN r11890 branch master = :13
+progress SVN r11891 branch master = :14
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           42 (         3 duplicates                  )
+      blobs  :           14 (         3 duplicates          4 deltas of         14 attempts)
+      trees  :           14 (         0 duplicates         12 deltas of         13 attempts)
+      commits:           14 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        16 unique    )
+      atoms:              5
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      10665 /      10665
+---------------------------------------------------------------------
+

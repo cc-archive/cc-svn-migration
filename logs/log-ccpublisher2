@@ -1,0 +1,26 @@
+progress SVN r3167 branch master = :1
+progress SVN r4261 branch master = :0 # delete
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          170 (        21 duplicates                  )
+      blobs  :          143 (        21 duplicates         61 deltas of        139 attempts)
+      trees  :           26 (         0 duplicates          0 deltas of         26 attempts)
+      commits:            1 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         1 loads     )
+      marks:        1048576 (       165 unique    )
+      atoms:            117
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     160755 /     160755
+---------------------------------------------------------------------
+

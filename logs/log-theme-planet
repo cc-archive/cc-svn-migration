@@ -1,0 +1,38 @@
+progress SVN r7437 branch master = :1
+progress SVN r7438 branch master = :2
+progress SVN r7439 branch master = :3
+progress SVN r7440 branch master = :4
+progress SVN r7441 branch master = :5
+progress SVN r7442 branch master = :6
+progress SVN r7447 branch master = :7
+progress SVN r7467 branch master = :8
+progress SVN r7468 branch master = :9
+progress SVN r7571 branch master = :10
+progress SVN r7572 branch master = :11
+progress SVN r7574 branch production = :11 # from branch master at r7573 => r7572
+progress SVN r7575 branch master = :12
+progress SVN r7576 branch production = :13
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           46 (         3 duplicates                  )
+      blobs  :           21 (         2 duplicates         13 deltas of         21 attempts)
+      trees  :           12 (         1 duplicates         10 deltas of         11 attempts)
+      commits:           13 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         2 loads     )
+      marks:        1048576 (        21 unique    )
+      atoms:              9
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         24
+pack_report: pack_mmap_calls          =          3
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      36598 /      36598
+---------------------------------------------------------------------
+

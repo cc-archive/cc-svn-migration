@@ -1,0 +1,33 @@
+progress SVN r4271 branch master = :1
+progress SVN r4272 branch master = :2
+progress SVN r4273 branch master = :3
+progress SVN r4274 branch master = :4
+progress SVN r4275 branch master = :5
+progress SVN r4276 branch master = :6
+progress SVN r5236 branch master = :7
+progress SVN r5237 branch master = :8
+progress SVN r5686 branch master = :9
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           91 (       202 duplicates                  )
+      blobs  :           69 (       195 duplicates         57 deltas of         65 attempts)
+      trees  :           13 (         7 duplicates          6 deltas of         13 attempts)
+      commits:            9 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (       137 unique    )
+      atoms:             68
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     333253 /     333253
+---------------------------------------------------------------------
+

@@ -1,0 +1,101 @@
+progress SVN r3970 branch master = :1
+progress SVN r3973 branch tag--mozcc-2.0.0 = :1 # from branch master
+progress SVN r3974 branch master = :2
+progress SVN r3975 branch master = :3
+progress SVN r3976 branch master = :4
+progress SVN r3977 branch master = :5
+progress SVN r3978 branch master = :6
+progress SVN r3979 branch master = :7
+progress SVN r4108 branch master = :8
+progress SVN r4109 branch master = :9
+progress SVN r4110 branch master = :10
+progress SVN r4112 branch master = :11
+progress SVN r4113 branch master = :12
+progress SVN r4114 branch master = :13
+progress SVN r4116 branch master = :14
+progress SVN r4117 branch tag--mozcc-2.2.0 = :7 # from branch master at r4107 => r3979
+progress SVN r4117 branch tag--mozcc-2.2.0 = :15 # merge from :8 :13 :10 :9 :12 :14
+progress SVN r4210 branch master = :16
+progress SVN r4211 branch tag--mozcc-2.2.1 = :14 # from branch master at r4116
+progress SVN r4211 branch tag--mozcc-2.2.1 = :17 # merge from :16
+progress SVN r4211 branch tag--mozcc-2.2.0 = :18
+progress SVN r4212 branch tag--mozcc-2.2.1 = :19
+progress SVN r4352 branch master = :20
+progress SVN r4353 branch master = :21
+progress SVN r4354 branch tag--mozcc-2.2.2 = :16 # from branch master at r4346 => r4210
+progress SVN r4354 branch tag--mozcc-2.2.2 = :22 # merge from :20 :21
+progress SVN r4696 branch master = :23
+progress SVN r4700 branch master = :24
+progress SVN r4701 branch master = :25
+progress SVN r4947 branch master = :26
+progress SVN r4948 branch master = :27
+progress SVN r4949 branch master = :28
+progress SVN r5108 branch master = :29
+progress SVN r5109 branch master = :30
+progress SVN r5110 branch master = :31
+progress SVN r5111 branch master = :32
+progress SVN r5112 branch master = :33
+progress SVN r5114 branch master = :34
+progress SVN r5116 branch master = :35
+progress SVN r5117 branch master = :36
+progress SVN r5123 branch master = :37
+progress SVN r5124 branch tag--mozcc-2.4.0 = :37 # from branch master
+progress SVN r5125 branch master = :38
+progress SVN r5126 branch tag--mozcc-2.4.0 = :39
+progress SVN r5128 branch master = :40
+progress SVN r5157 branch master = :41
+progress SVN r5158 branch master = :42
+progress SVN r5162 branch tag--mozcc-2.4.0 = :0 # delete
+progress SVN r5163 branch master = :43
+progress SVN r5164 branch tag--mozcc-2.4.0 = :42 # from branch master at r5161 => r5158
+progress SVN r5164 branch tag--mozcc-2.4.0 = :44 # merge from :43
+progress SVN r5166 branch master = :45
+progress SVN r5167 branch master = :46
+progress SVN r5168 branch master = :47
+progress SVN r5198 branch master = :48
+progress SVN r5199 branch master = :49
+progress SVN r5200 branch master = :50
+progress SVN r5201 branch master = :51
+progress SVN r5202 branch tag--mozcc-2.4.1 = :42 # from branch master at r5161 => r5158
+progress SVN r5202 branch tag--mozcc-2.4.1 = :52 # merge from :48 :47 :45 :50 :49 :51
+progress SVN r5302 branch master = :53
+progress SVN r5303 branch master = :54
+progress SVN r5304 branch master = :55
+progress SVN r5305 branch master = :56
+progress SVN r5306 branch master = :57
+progress SVN r5307 branch master = :58
+progress SVN r5308 branch master = :59
+progress SVN r5309 branch master = :60
+progress SVN r5311 branch tag--mozcc-2.4.2 = :60 # from branch master at r5310 => r5309
+progress SVN r5312 branch master = :61
+progress SVN r5313 branch master = :62
+progress SVN r5314 branch master = :63
+progress SVN r5362 branch master = :64
+progress SVN r5363 branch master = :65
+progress SVN r5364 branch master = :66
+progress SVN r5365 branch master = :67
+progress SVN r5366 branch master = :68
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          412 (       285 duplicates                  )
+      blobs  :          156 (       244 duplicates         90 deltas of        153 attempts)
+      trees  :          188 (        41 duplicates        118 deltas of        181 attempts)
+      commits:           68 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           9 (         6 loads     )
+      marks:        1048576 (       217 unique    )
+      atoms:             87
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =        108
+pack_report: pack_mmap_calls          =         11
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     232792 /     232792
+---------------------------------------------------------------------
+

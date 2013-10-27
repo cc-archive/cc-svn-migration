@@ -1,0 +1,50 @@
+progress SVN r4240 branch master = :1
+progress SVN r4243 branch master = :2
+progress SVN r4470 branch master = :3
+progress SVN r4471 branch master = :4
+progress SVN r4877 branch master = :5
+progress SVN r4909 branch master = :6
+progress SVN r4910 branch master = :7
+progress SVN r5203 branch master = :8
+progress SVN r9542 branch master = :9
+progress SVN r9543 branch master = :10
+progress SVN r9544 branch master = :11
+progress SVN r9556 branch master = :12
+progress SVN r9561 branch master = :13
+progress SVN r9562 branch master = :14
+progress SVN r9566 branch master = :15
+progress SVN r9567 branch master = :16
+progress SVN r9568 branch tag--2.3 = :15 # from branch master at r9566
+progress SVN r9568 branch tag--2.3 = :17 # merge from :16
+progress SVN r9569 branch master = :18
+progress SVN r9570 branch master = :19
+progress SVN r9571 branch tag--2.3 = :0 # delete
+progress SVN r9572 branch master = :20
+progress SVN r9573 branch master = :21
+progress SVN r9574 branch master = :22
+progress SVN r9575 branch tag--2.3 = :20 # from branch master at r9572
+progress SVN r9575 branch tag--2.3 = :23 # merge from :21 :22
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          111 (         6 duplicates                  )
+      blobs  :           55 (         4 duplicates         25 deltas of         54 attempts)
+      trees  :           33 (         2 duplicates         28 deltas of         32 attempts)
+      commits:           23 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           3 (         2 loads     )
+      marks:        1048576 (        50 unique    )
+      atoms:             34
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         22
+pack_report: pack_mmap_calls          =          3
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     118738 /     118738
+---------------------------------------------------------------------
+

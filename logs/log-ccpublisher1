@@ -1,0 +1,29 @@
+progress SVN r3166 branch tag--ccp8_1_0_1 = :1
+progress SVN r3166 branch tag--ccp8_1_0 = :2
+progress SVN r3166 branch tag--ccp8_1_0_branchpoint = :3
+progress SVN r3166 branch ourmedia_branch = :4
+progress SVN r3166 branch master = :5
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          217 (       756 duplicates                  )
+      blobs  :          170 (       690 duplicates         82 deltas of        166 attempts)
+      trees  :           42 (        66 duplicates          0 deltas of         42 attempts)
+      commits:            5 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           5 (         5 loads     )
+      marks:        1048576 (       865 unique    )
+      atoms:            144
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          5
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =    1946506 /    1946506
+---------------------------------------------------------------------
+

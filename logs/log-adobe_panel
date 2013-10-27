@@ -1,0 +1,39 @@
+progress SVN r7058 branch master = :1
+progress SVN r7087 branch master = :2
+progress SVN r7094 branch master = :3
+progress SVN r7100 branch master = :4
+progress SVN r7128 branch master = :5
+progress SVN r7129 branch master = :6
+progress SVN r7130 branch master = :7
+progress SVN r7200 branch tag--version-2007 = :6 # from branch master at r7129
+progress SVN r7200 branch tag--version-2007 = :8 # merge from :7
+progress SVN r7201 branch master = :9
+progress SVN r7202 branch master = :10
+progress SVN r7247 branch master = :11
+progress SVN r7248 branch master = :12
+progress SVN r7249 branch master = :13
+progress SVN r7250 branch master = :14
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           60 (         4 duplicates                  )
+      blobs  :           19 (         2 duplicates          2 deltas of         19 attempts)
+      trees  :           27 (         2 duplicates         19 deltas of         26 attempts)
+      commits:           14 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           2 (         2 loads     )
+      marks:        1048576 (        17 unique    )
+      atoms:             15
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =         15
+pack_report: pack_mmap_calls          =          2
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     154260 /     154260
+---------------------------------------------------------------------
+

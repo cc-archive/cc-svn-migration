@@ -1,0 +1,28 @@
+progress SVN r3167 branch master = :1
+progress SVN r4640 branch master = :2
+progress SVN r4644 branch master = :3
+progress SVN r14253 branch master = :4
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:           83 (         9 duplicates                  )
+      blobs  :           51 (         9 duplicates         22 deltas of         51 attempts)
+      trees  :           28 (         0 duplicates          7 deltas of         28 attempts)
+      commits:            4 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (        47 unique    )
+      atoms:             60
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =      82211 /      82211
+---------------------------------------------------------------------
+

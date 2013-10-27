@@ -1,0 +1,25 @@
+progress SVN r3168 branch master = :1
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          211 (        15 duplicates                  )
+      blobs  :          194 (        15 duplicates         74 deltas of        194 attempts)
+      trees  :           16 (         0 duplicates          0 deltas of         16 attempts)
+      commits:            1 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           1 (         1 loads     )
+      marks:        1048576 (       210 unique    )
+      atoms:            191
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          1
+pack_report: pack_mmap_calls          =          1
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     409491 /     409491
+---------------------------------------------------------------------
+

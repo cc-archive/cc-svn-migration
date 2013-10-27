@@ -1,0 +1,67 @@
+progress SVN r7670 branch master = :1
+progress SVN r7678 branch master = :0 # delete
+progress SVN r7678 branch master = :1 # from branch master at r7677 => r7670
+progress SVN r9190 branch master = :0 # delete
+progress SVN r9190 branch tag--zope3-skeleton-20080227 = :1 # from branch master at r9189 => r7678
+progress SVN r9192 branch master = :2
+progress SVN r9212 branch master = :3
+progress SVN r9214 branch master = :4
+progress SVN r9215 branch master = :5
+progress SVN r9216 branch master = :6
+progress SVN r9222 branch master = :7
+progress SVN r9224 branch master = :8
+progress SVN r9226 branch master = :9
+progress SVN r9228 branch master = :10
+progress SVN r9230 branch master = :11
+progress SVN r9232 branch master = :12
+progress SVN r9348 branch master = :13
+progress SVN r9349 branch master = :14
+progress SVN r9350 branch master = :15
+progress SVN r9351 branch master = :16
+progress SVN r9352 branch master = :17
+progress SVN r9353 branch master = :18
+progress SVN r9354 branch master = :19
+progress SVN r9355 branch master = :20
+progress SVN r9356 branch master = :21
+progress SVN r9357 branch master = :22
+progress SVN r9358 branch master = :23
+progress SVN r9359 branch master = :24
+progress SVN r9360 branch master = :25
+progress SVN r9361 branch master = :26
+progress SVN r9362 branch master = :27
+progress SVN r9363 branch master = :28
+progress SVN r9364 branch master = :29
+progress SVN r9365 branch master = :30
+progress SVN r9366 branch master = :31
+progress SVN r9367 branch master = :32
+progress SVN r9368 branch master = :33
+progress SVN r9390 branch master = :34
+progress SVN r9391 branch master = :35
+progress SVN r9521 branch master = :36
+progress SVN r9618 branch master = :37
+progress SVN r9619 branch master = :38
+progress SVN r9620 branch master = :39
+git-fast-import statistics:
+---------------------------------------------------------------------
+Alloc'd objects:       5000
+Total objects:          513 (       388 duplicates                  )
+      blobs  :          317 (       371 duplicates        119 deltas of        310 attempts)
+      trees  :          157 (        17 duplicates        101 deltas of        153 attempts)
+      commits:           39 (         0 duplicates          0 deltas of          0 attempts)
+      tags   :            0 (         0 duplicates          0 deltas of          0 attempts)
+Total branches:           4 (         1 loads     )
+      marks:        1048576 (       418 unique    )
+      atoms:            225
+Memory total:          2344 KiB
+       pools:          2110 KiB
+     objects:           234 KiB
+---------------------------------------------------------------------
+pack_report: getpagesize()            =       4096
+pack_report: core.packedGitWindowSize = 1073741824
+pack_report: core.packedGitLimit      = 8589934592
+pack_report: pack_used_ctr            =          4
+pack_report: pack_mmap_calls          =          2
+pack_report: pack_open_windows        =          1 /          1
+pack_report: pack_mapped              =     433197 /     433197
+---------------------------------------------------------------------
+
