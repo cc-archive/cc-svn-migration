@@ -1,0 +1,26 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/smarty/templates_c':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/images/cc-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/trunk/images/cc-learn24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/www':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/branches/deprecated_hosted_cse_branch/smarty/templates_c':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/branches/deprecated_hosted_cse_branch/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/branches/deprecated_hosted_cse_branch/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/branches/deprecated_hosted_cse_branch/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/oe_search/branches/deprecated_hosted_cse_branch/images/cc-learn24.png':
+  svn:mime-type

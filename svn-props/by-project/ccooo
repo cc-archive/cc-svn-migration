@@ -1,0 +1,1151 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/demo13072008/ccooo.oxt':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/flickrapi-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/project-uno.properties':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/project.properties':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/project.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/genfiles.properties':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/build-uno-impl.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/nbproject/build-impl.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/description.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/Addons.xcu':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/IJurisdiction.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/Unported.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/Chooser.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/License.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/CC.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/Jurisdiction.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/rdf/index.rdf':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/rdf/jurisdictions.rdf':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/rdf/ns.html':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/rdf/schema.rdf':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/license/Store.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/CcOOoAddin.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/Calc.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/Image.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/FlickrConnection.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/Writer.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/program/Draw.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/Constants.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/util/Helper.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/util/ShapeHelper.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/org/creativecommons/openoffice/util/PageHelper.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/ProtocolHandler.xcu':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/src/uno-extension-manifest.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/README':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/build.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/filterCheckboxes.txt':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/licenses/LICENSE':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/CC_26.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/insert_image_16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/loading.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/Picasa.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/openclipartlogo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/wikimedia_commons_20px.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/20px-Cc.logo.circle.svg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/CC_42.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/images/CC_16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/arq-extra.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/slf4j-log4j12-1.5.6.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/saxpath.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/json.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/wstx-asl-3.0.0.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/xercesImpl-2.7.1.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/jena-2.6.2.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/jena-2.6.2-tests.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/stax-api-1.0.1.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/icu4j-3.4.4.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/concurrent.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/ant.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/iri.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/iri-0.7.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/arq-2.8.1.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/antlr-2.7.5.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/jdom.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/wstx-asl-3.2.9.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/xerces.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/xml-apis.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/jaxen-core.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/jaxen-jdom.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/commons-logging-1.1.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/junit-4.5.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/slf4j-api-1.5.6.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/log4j-1.2.13.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/lucene-core-2.3.1.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/flickrapi-1.2.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/lib/xalan.jar':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/make_pot.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/CHANGES':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_st.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh_HK$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_CA$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_cs$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_he.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ko$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_CA$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de_CH.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sl$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_CH$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_PR.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sr$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_da$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_st$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hu.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sv$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_EC.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hy.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_SG$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_HK.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_CL.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_oci_ES$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ga.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de_CH$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_id.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_th$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_EC$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_lt$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_CA.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_cs.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_lv$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ko.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_mn.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_tr$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_it.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_CH.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_el$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_it_CH.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ur.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_bg.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_eo$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_PE.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh_TW.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_mk$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_LU$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_eu$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fi.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_mn$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_MX$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_oci_ES.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ms$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_uk$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pl.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_it_CH$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ur$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de_AT.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_vi.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ro.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_lv.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fi$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_tr.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_CO.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_nl$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_US$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_no$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_gl.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_as.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_vi$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_eu.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_GB.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ga$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ast_ES.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sr.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_da.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt_PT.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_GT$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_gl$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sv.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_nso.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_GB$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ast_ES$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_nl.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_US.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt_PT$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_PE$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh_TW$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_he$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ca.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_af.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_PR$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hr$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pl$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_el.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hu$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_GT.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ar.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh_HK.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hy$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt_BR.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_HK$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_az.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_af$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_AR$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_id$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_be.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ar$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_as$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ja.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_pt_BR$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_en_SG.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_az$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_it$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sr_LATN.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_hr.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_be$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_th.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_no.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_bg$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_lt.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ja$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_nso$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ru.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sr_LATN$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_AR.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zu.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_de_AT$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_eo.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ro$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zh$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_mk.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_LU.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ca$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_fr_CA.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_CL$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ru$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_MX.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_es_CO$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_sl.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_ms.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_uk.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/resources/Messages_zu$1.class':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/akila-gsoc-2010/language.properties':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/licenses/LICENSE':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/arq-extra.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/json.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/xercesImpl.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/jenatest.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/jena.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/wstx-asl-3.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/concurrent.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/stax-api-1.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/iri.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/icu4j_3_4.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/arq.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/antlr-2.7.5.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/junit.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/commons-logging-1.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/lucene-core-2.0.0.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/log4j-1.2.12.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/nbproject':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/description.xml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/IJurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/Unported.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/Chooser.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/License.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/CC.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/Jurisdiction.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license/Store.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/program/OOoProgram.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/program/IVisibleNotice.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/CancelClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/ChooserDialog.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/AllowRemixListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/UpdateLicenseListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/FinishClickListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/openoffice/ui/JurisdictionSelectListener.java':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/external_jars/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/ccooo.oxt':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/dist/ccooo.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/saxpath.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/xerces.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/xml-apis.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/jaxen-core.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/jaxen-jdom.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/ant.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/lib/xalan.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/post-gsoc-ooo22/ccooo/nbproject':
+  svn:ignore

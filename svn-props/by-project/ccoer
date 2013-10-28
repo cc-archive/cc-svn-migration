@@ -1,0 +1,362 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/feeds.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/source/oai.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/source/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/source/feed.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/source/sniff.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/handlers.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/import_feeds.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/import_rss.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/import_csv.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/aggregator/cli.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/oercloud/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/oercloud/users.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/oercloud/feed.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/oercloud/db.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/aggregator/src/oercloud/urls.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/loading.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/de_DE/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/zh_CN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/nl_NL/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/ja_JP/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/hi_IN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/pt_BR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/it_IT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/en_GB/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/dk_DK/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/es_ES/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/fr_FR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/locales/lt_LT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/oer_feeds/smarty/templates_c':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/oer_feeds/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/oer_feeds/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/oer_feeds/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/oer_feeds/images/cc-learn24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/bg_bar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/images/cc-learn24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/player/play.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/player/stop.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/player/musicplayer_f6.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/player/error.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/includes/player/load.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/icon.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/bg_header.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/logo_24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/bg_sidebar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/www/rss.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/scripts/feeds.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/scripts/cc_oer/import_feeds.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/scripts/cc_oer/import_rss.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/trunk/scripts/cc_oer/import_csv.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/loading.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/de_DE/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/zh_CN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/nl_NL/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/ja_JP/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/hi_IN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/pt_BR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/it_IT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/en_GB/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/dk_DK/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/es_ES/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/fr_FR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/locales/lt_LT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/bg_bar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/images/cc-learn24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/player/play.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/player/stop.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/player/musicplayer_f6.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/player/error.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/includes/player/load.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/icon.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/bg_header.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/logo_24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/bg_sidebar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/www/rss.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/scripts/cc_oer/import_rss.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/branches/deprecated_hosted_cse_branch/scripts/cc_oer/import_csv.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/loading.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/de_DE/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/zh_CN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/nl_NL/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/ja_JP/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/hi_IN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/pt_BR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/it_IT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/en_GB/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/dk_DK/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/es_ES/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/fr_FR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/locales/lt_LT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/bg_bar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/player/play.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/player/stop.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/player/musicplayer_f6.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/player/error.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/includes/player/load.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/icon.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/bg_header.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/logo_24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/bg_sidebar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/current/rss.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/loading.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/de_DE/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/zh_CN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/nl_NL/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/ja_JP/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/hi_IN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/pt_BR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/it_IT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/en_GB/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/dk_DK/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/es_ES/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/fr_FR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/locales/lt_LT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/bg_bar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/player/play.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/player/stop.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/player/musicplayer_f6.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/player/error.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/includes/player/load.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/icon.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/bg_header.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/logo_24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/bg_sidebar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/vendor/scuttle/scuttle_0_7_2/rss.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/loading.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/de_DE/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/zh_CN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/nl_NL/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/ja_JP/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/hi_IN/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/pt_BR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/it_IT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/en_GB/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/dk_DK/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/es_ES/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/fr_FR/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/locales/lt_LT/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/bg_bar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/images/cc-header-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/images/cc-learn.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/images/cc-learn24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/player/play.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/player/stop.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/player/musicplayer_f6.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/player/error.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/includes/player/load.swf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/icon.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/bg_header.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/logo_24.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/bg_sidebar.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccoer/tags/19Jul2007/www/rss.gif':
+  svn:mime-type

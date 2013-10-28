@@ -1,0 +1,275 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/de/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/ja/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/ja/LC_MESSAGES/ccsearch.po':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/pt_BR/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/af/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/zh_TW/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/zh_CN/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/et/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/et/LC_MESSAGES/ccsearch.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/locale/default/en_US/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/tab-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-flickr.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-jamendo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-spinxpress.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-ccmixter.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/ccsearch.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-blip.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/wwt.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-owlmm.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-google.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-wikimediacommons.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-yahoo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/break.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-search-2.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/cc-search.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/images/ff-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk/transparent.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/locale/default/zh_CN/LC_MESSAGES/ccsearch.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/locale/default/pt_BR/LC_MESSAGES/ccsearch.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/locale/default/en_US/LC_MESSAGES/ccsearch.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/tab-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-flickr.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-google.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-jamendo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-ccmixter.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-yahoo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/break.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-search.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/cc-blip.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/images/ff-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/i18n/transparent.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers':
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/de/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/ja/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/ja/LC_MESSAGES/ccsearch.po':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/pt_BR/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/af/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/zh_TW/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/zh_CN/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/locale/default/en_US/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/tab-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-flickr.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-jamendo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-spinxpress.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-ccmixter.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/ccsearch.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-blip.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/wwt.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-owlmm.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-google.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-yahoo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/break.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/cc-search.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/images/ff-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers/transparent.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production':
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/de/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/ja/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/ja/LC_MESSAGES/ccsearch.po':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/pt_BR/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/af/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/zh_TW/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/zh_CN/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/et/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/et/LC_MESSAGES/ccsearch.mo':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/locale/default/en_US/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/tab-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-flickr.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-jamendo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-spinxpress.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-ccmixter.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/ccsearch.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-blip.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/wwt.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-owlmm.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-google.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-wikimediacommons.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-yahoo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/break.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-search-2.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/cc-search.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/images/ff-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production/transparent.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe':
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/search-engines.php':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/de/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/ja/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/ja/LC_MESSAGES/ccsearch.po':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/pt_BR/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/af/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/zh_TW/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/zh_CN/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/locale/default/en_US/LC_MESSAGES':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/tab-bg.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-flickr.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-jamendo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-spinxpress.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-ccmixter.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/ccsearch.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-blip.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/wwt.jpg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-owlmm.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-google.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/bg-std.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-yahoo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/break.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/information.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/cc-search.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/images/ff-logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe/transparent.gif':
+  svn:mime-type

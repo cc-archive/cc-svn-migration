@@ -1,0 +1,46 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/deploy.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/test/org/creativecommons/nutch/TestCCParseFilter.java':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/footer.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/background.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/logo.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/nc.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/nd.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/ma_search_1.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/top.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/pd.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/sa.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/sampling+.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/header.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/by.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/img/sampling.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/src/web/web.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/check-restart.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/data/rel.html':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/data/anchor.html':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/data/rdf.html':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/plugin.xml':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/restart.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccnutch/trunk/build.xml':
+  svn:executable

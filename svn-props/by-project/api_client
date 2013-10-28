@@ -1,0 +1,161 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/.classpath':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/CcRest.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/demo/DemoUi.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/demo/RestDemo.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/demo/AnswerListener.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/demo/IssueButtonListener.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/LicenseField.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/LicenseClass.java':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/org/creativecommons/api/package.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/.externalToolBuilders/Ant Compile.launch':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/docs/LICENSE':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/java/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/python/rest-wx-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/python/ccwsclient/rest.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/python/ccwsclient/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/images/macosxlogo.gif':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/images/.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/images/web_share.gif':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/images/apache_pb.gif':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/images/._.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/choose.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/behaviour.js':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/Throbber-small.gif':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/ccwsclient.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/tw-sack.js':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/client.js':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/minixml.inc.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/._.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/classes/doc.inc.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/classes/node.inc.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/classes/element.inc.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/classes/treecomp.inc.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/cc_ajax/cc_ajax.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/docs/README.html':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/docs/LICENSE':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/docs/README.rst':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/._.DS_Store':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/ajax_chooser/index.php':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/cc_ajax_chooser/images/Throbber-small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/cc_ajax_chooser/images/progress.xcf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api_client/trunk/php/cc_ajax_chooser/images/progress.gif':
+  svn:mime-type

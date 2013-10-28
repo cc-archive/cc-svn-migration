@@ -1,0 +1,660 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk':
+  svn:ignore
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/docs/index.rst':
+  svn:keywords
+  svn:mergeinfo
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/tests/schemata/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/tests/schemata/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/tests/schemata/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/tests/schemata/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/tests/schemata/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/bootstrap.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/trunk/rest.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest/license.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/cc_rest/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/licenses':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/licenses/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/licenses/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/api/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/api/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/api/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/api/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/README.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/docs/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/utilities/relax_validate.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/README.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/tests/schemata/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/tests/schemata/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/tests/schemata/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/tests/schemata/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/tests/schemata/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/bootstrap.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch/rest.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/soap-wx-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest/license.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/soap-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/feedparser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/xmlutils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/soap.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/rest-wx-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/ccwsclient/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/ccwsclient/rest.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/ccwsclient/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/rest.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser':
+  svn:ignore
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/docs/index.rst':
+  svn:keywords
+  svn:mergeinfo
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/tests/schemata/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/tests/schemata/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/tests/schemata/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/tests/schemata/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/tests/schemata/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/bootstrap.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser/rest.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest/license.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/cc_rest/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/soap/soap-wx-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/soap/soap-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/soap/feedparser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/soap/xmlutils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/soap/soap.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/tests/relax.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/tests/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/README.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification/rest.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/api_exceptions.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest/license.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/cc_rest/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/soap/soap-wx-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/soap/soap-client.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/soap/feedparser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/soap/xmlutils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/soap/soap.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/tests/relax.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/tests/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/simplechooser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/support.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/rest_api.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/rest_wsgi.cgi':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/readme_dev.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/README.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/readme_10.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/readme_15.rst':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/index.html':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/XML_README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/docs/default.css':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/issue.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/licenseclass.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/error.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/questions.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/classes.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/locales.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/relax/licenses.relax.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/rest_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint/rest.cgi':
+  svn:keywords
+  svn:eol-style

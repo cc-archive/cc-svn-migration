@@ -1,0 +1,170 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/log.ini':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/lib/yuicompressor-2.4.2.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/lib/yuicompressor-2.3.6.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/lib/yuicompressor-2.4.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src/ld':
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src/deed/attribution.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src/core.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src/blank_line.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper/support.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper/app.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/deedscraper/server.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/src/cc/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/test.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production':
+  svn:ignore
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/log.ini':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/javascript/lib/yuicompressor-2.3.6.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/javascript/lib/yuicompressor-2.4.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/javascript/src/core.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/tests/test_defaults.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/support.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/app.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/deedscraper/server.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/src/cc/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production/test.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/log.ini':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/lib/yuicompressor-2.4.2.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/lib/yuicompressor-2.3.6.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/lib/yuicompressor-2.4.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src/ld':
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src/deed/attribution.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src/core.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src/blank_line.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper/support.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper/app.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/deedscraper/server.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/src/cc/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/test.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/log.ini':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/lib/yuicompressor-2.4.2.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/lib/yuicompressor-2.3.6.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/lib/yuicompressor-2.4.1.jar':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src/ld':
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src/deed/attribution.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src/core.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src/blank_line.js':
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper/support.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper/app.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/deedscraper/server.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/src/cc/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/test.cfg':
+  svn:eol-style

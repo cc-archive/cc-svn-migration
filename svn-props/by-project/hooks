@@ -1,0 +1,11 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/hooks/update-staging-i18n.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/hooks/pre-revprop-change':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/hooks/update-pootle-master.sh':
+  svn:executable
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/hooks/verbatim-hack-svn:author.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/hooks/post-commit':
+  svn:executable

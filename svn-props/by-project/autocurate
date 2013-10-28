@@ -1,0 +1,6 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/autocurate/trunk':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/autocurate/trunk/make_package.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/autocurate/trunk/flickr':
+  svn:externals

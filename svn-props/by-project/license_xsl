@@ -1,0 +1,100 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n/msgfmt.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n/licenselocale.xsl.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n/questions.xml.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licenses.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licenselocale.xsl':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/chooselicense.xsl':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licensexsl_tools':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licensexsl_tools/makerdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licensexsl_tools/translate.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licensexsl_tools/licenses.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/questions.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/README':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/templates/makerdf.sh.in':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n/msgfmt.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n/licenselocale.xsl.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n/questions.xml.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licenses.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licenselocale.xsl':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/chooselicense.xsl':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licensexsl_tools':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licensexsl_tools/makerdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licensexsl_tools/translate.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licensexsl_tools/licenses.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/questions.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/README':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/templates/makerdf.sh.in':
+  svn:executable
+  svn:keywords
+  svn:eol-style

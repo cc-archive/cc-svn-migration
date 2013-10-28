@@ -1,0 +1,312 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/cache':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/community':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/community/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/community/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/community/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/jurisdictions':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/jurisdictions/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/jurisdictions/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/jurisdictions/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/www/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/config/root':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/config/community':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/config/jurisdictions':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/scripts':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/scripts/update_planets.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/csv_config.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/vendor/html5lib/treebuilders/_base.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/vendor/html5lib/treebuilders/simpletree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/vendor/html5lib/treebuilders/__init__.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/vendor/html5lib/treebuilders/etree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/vendor/feedparser.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet/opml.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/cc':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/venus.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/venus.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/opml.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/tcosm11.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/themes/common/images/foaf.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/docs/img/shadowAlpha.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/tests/capture.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/tests/data/apply/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/splice.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/planet.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/spider.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/runtests.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/examples/images/edd.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/examples/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/examples/images/thom.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/examples/images/keybuk.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/trunk/software/examples/filters/guess-language/learn-language.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production':
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/cache':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/community':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/community/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/community/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/community/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/images/planet-title.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/images/planet-title-8.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/jurisdictions':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/jurisdictions/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/jurisdictions/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/jurisdictions/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/www/favicon.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/config/root':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/config/community':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/config/jurisdictions':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/scripts':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/scripts/update_planets.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/csv_config.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/vendor/html5lib/treebuilders/_base.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/vendor/html5lib/treebuilders/simpletree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/vendor/html5lib/treebuilders/__init__.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/vendor/html5lib/treebuilders/etree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/vendor/feedparser.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet/opml.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/cc':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/venus.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/venus.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/opml.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/tcosm11.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/themes/common/images/foaf.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/docs/img/shadowAlpha.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/tests/capture.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/tests/data/apply/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/splice.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/planet.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/spider.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/runtests.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/examples/images/edd.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/examples/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/examples/images/thom.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/examples/images/keybuk.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/branches/production/software/examples/filters/guess-language/learn-language.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/csv_config.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/vendor/html5lib/treebuilders/_base.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/vendor/html5lib/treebuilders/simpletree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/vendor/html5lib/treebuilders/__init__.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/vendor/html5lib/treebuilders/etree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/vendor/feedparser.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet/opml.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/venus.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/venus.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/opml.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/tcosm11.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/themes/common/images/foaf.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/docs/img/shadowAlpha.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/tests/capture.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/tests/data/apply/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/splice.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/planet.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/spider.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/runtests.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/examples/images/edd.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/examples/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/examples/images/thom.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/examples/images/keybuk.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/current/examples/filters/guess-language/learn-language.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/csv_config.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/vendor/html5lib/treebuilders/_base.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/vendor/html5lib/treebuilders/simpletree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/vendor/html5lib/treebuilders/__init__.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/vendor/html5lib/treebuilders/etree.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/vendor/feedparser.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet/opml.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/feed-icon-10x10.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/logo.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/venus.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/planet.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/venus.ico':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/opml.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/tcosm11.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/themes/common/images/foaf.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/docs/img/shadowAlpha.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/tests/capture.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/tests/data/apply/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/splice.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/planet.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/spider.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/runtests.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/examples/images/edd.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/examples/images/jdub.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/examples/images/thom.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/examples/images/keybuk.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/planet/vendor/venus/2007-12-05/examples/filters/guess-language/learn-language.py':
+  svn:executable

@@ -1,0 +1,30 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/convert_urls_to_canonical.php':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/check_url_paths.php':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/check_webservices.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/fetch_apache_logs.pl':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/get_civicrm_signups.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/civicrm_donation_stats.php':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/fetch_squid_logs.pl':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/check_varnish.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/fetch_mysqldumps.pl':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/civicrm2commoner.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/reconcile_civicrm.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/put_proxy_logs.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/put_apache_logs.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/fetch_backups.pl':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/scripts/xchk_letters2db.php':
+  svn:executable

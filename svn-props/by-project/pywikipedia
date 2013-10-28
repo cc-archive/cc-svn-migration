@@ -1,0 +1,7 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/pywikipedia/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/pywikipedia/trunk/bot_monkey/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/pywikipedia/trunk/user-config.py.templ':
+  svn:eol-style

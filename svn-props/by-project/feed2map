@@ -1,0 +1,10 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/feed2map/trunk':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/feed2map/branches/cclearn-events-map':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/feed2map/branches/cclearn-events-map/cron_job.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/feed2map/tags/for_2007_campaign':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/feed2map/tags/for_2007_campaign/grab_civicactions_data.sh':
+  svn:executable

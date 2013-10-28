@@ -1,0 +1,324 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/doxygen-doc.sh':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/bindings/ruby':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/bindings/ruby/test.rb':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/.git-svn-fix.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests/data/empty.flac':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests/data/licensed.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests/data/empty.pdf':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests/data/empty.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/tests/modules_test.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/predicate_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/chooser_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/mw_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/default_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/data':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/module_selection_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/write_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/info_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/list_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/read_test.c':
+  svn:special
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/dynamic_tests/modules_test.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/liblicense':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/liblicense/license_print_info.c':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/icons':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po/pygettext.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po/gen_messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po/extract-messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po/gen_po.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/po/extractrc':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/gen_licenses.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/licenses':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/gen_licenses.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/src/gnome':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/bindings/ruby/test.rb':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/licenses':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/gen_licenses.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/bindings/ruby':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/bindings/ruby/test.rb':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/tests/modules_test.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/licenses':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/liblicense':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/icons':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po/pygettext.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po/gen_messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po/extract-messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po/gen_po.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/po/extractrc':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/doxygen-doc.sh':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/bindings/ruby':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/bindings/ruby/test.rb':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/tests/modules_test.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/liblicense':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/liblicense/license_print_info.c':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/icons':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po/pygettext.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po/gen_messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po/extract-messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po/gen_po.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/po/extractrc':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/doxygen-doc.sh':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/bindings/ruby':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/bindings/ruby/test.rb':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/tests/modules_test.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/liblicense':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/liblicense/license_print_info.c':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/icons':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po/pygettext.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po/gen_messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po/extract-messages.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po/gen_po.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/po/extractrc':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/gen_licenses.py':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/xdgmime':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/bindings':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/bindings/python':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/bindings/python/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/utils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/tests':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/licenses':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/modules':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/modules/config':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/modules/io':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1/autogen.sh':
+  svn:executable

@@ -1,0 +1,139 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/lookup.xrc':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/__init__.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/cc.icns':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/cc_32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/resources/cc_16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/cclookup/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/version.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/README':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/lookup.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/about.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/TODO.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/version.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/lookup.xrc':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/cc.icns':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/cc_32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/resources/cc_16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/README':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style

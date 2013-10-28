@@ -1,0 +1,29 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk/cc/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk/cc/license/TODO.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk/cc/license/decorators.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql':
+  svn:ignore
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql/cc/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql/cc/license/TODO.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql/cc/license/decorators.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production':
+  svn:ignore
+  svn:externals
+  svnmerge-integrated
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production/cc/license':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production/cc/license/TODO.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production/cc/license/decorators.py':
+  svn:eol-style

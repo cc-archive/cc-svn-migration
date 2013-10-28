@@ -1,0 +1,414 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/src/rdfadict/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/src/rdfadict/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/src/rdfadict/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/src/rdfadict/pyrdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/src/rdfadict/pyrdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/src/rdfadict/pyrdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6':
+  svn:ignore
+  svn:externals
+  svn:mergeinfo
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/src/rdfadict/pyrdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3/setup.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/extract.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/tests/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/tests/test.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/tests/test_taskforce.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/rdfa.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/sink/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/sink/graph.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/src/rdfadict/README.txt':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/README':
+  svn:keywords
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4/setup.cfg':
+  svn:eol-style

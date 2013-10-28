@@ -1,0 +1,669 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/GetMetadataForFile.m':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/cctagutils/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/model':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/main.c':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/setup.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/tag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/frames.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/eyeD3/binfuncs.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Source/PyMetadataImport.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Releases/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/Example Smart Folders/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/Example Smart Folders/CC Music.savedSearch':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Info.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Archive.pax.gz':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/gpl.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/package_version':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/postflight':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/CC Metadata Importer.sizes':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/intro.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/BundleVersions.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/English.lproj/License.txt':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/English.lproj/CC Metadata Importer.info':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/English.lproj/Welcome.rtf':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Resources/English.lproj/Description.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/Archive.bom':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Package/CC Metadata Importer.pkg/Contents/PkgInfo':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/MacOS/Creative Commons Metadata Importer':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Info.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/schema.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/MacOS/PyMetadataImport':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Info.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/Python/site-packages.zip':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/__boot__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/site.pyo':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/PyMetadataImport.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/site.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/__error__.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/Resources/site.pyc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.plugin/Contents/PkgInfo':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/cctagutils/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/model':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/tag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/frames.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/eyeD3/binfuncs.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/PyMetadataImport.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/English.lproj/InfoPlist.strings':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Output/Creative Commons Metadata Importer.mdimporter/Contents/Resources/English.lproj/schema.strings':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Info.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Resources/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Resources/gpl.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Resources/postflight':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Resources/intro.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/Description.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Packaging/Installer/CC Metadata Importer.pmproj':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/CC_Importer.xcode/nathan.pbxuser':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/CC_Importer.xcode/project.pbxproj':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/CC_Importer.xcode/schwa.pbxuser':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/CC_Importer.xcode/nathan.mode1':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/CC_Importer.xcode/schwa.perspective':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/schema.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/Info.plist':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/English.lproj/InfoPlist.strings':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/English.lproj/.DS_Store':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/desktop_search/trunk/spotlight/Resources/English.lproj/schema.strings':
+  svn:keywords
+  svn:eol-style

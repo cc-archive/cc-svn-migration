@@ -1,0 +1,12 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script/buildout_script/template.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script/buildout_script/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script/buildout_script/script.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/buildout_script/buildout_script/templates/paster-check.sh.in':
+  svn:executable

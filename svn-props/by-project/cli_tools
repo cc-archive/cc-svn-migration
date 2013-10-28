@@ -1,0 +1,148 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/_build.bat':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/wix.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/ca/scaexec.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/ca/wixca.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/ca/scasched.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/doc/wixloc.xsd':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/doc/wix.xsd':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/doc/WiX.chm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/wixcab.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/build.sh':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/freeze.sh':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/up.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/exclamic.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/default-banner.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/new.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/info.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/resources/default-dialog.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/test_id3_22.mp3':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/test_id3_23.mp3':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/test_id3_none.mp3':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/tests/test_id3_1.mp3':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/version.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/make_dmg.sh':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/cli_tools/trunk/setup_cli.py':
+  svn:keywords
+  svn:eol-style

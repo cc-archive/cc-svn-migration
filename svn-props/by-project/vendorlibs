@@ -1,0 +1,552 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/model':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/utidylib/dist/uTidylib-0.2+cvs.tar.gz':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/utidylib/main.aap':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/utidylib/ChangeLog':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/uuidgen.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/dark.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/wix.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/tallow.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/pcaexec.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/pcasched.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/scaexec.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/wixca.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/pubca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/scasched.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/doc/wixloc.xsd':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/doc/wix.xsd':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/doc/WiX.chm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/candle.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/light.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/wixcab.dll':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/lit.exe':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/up.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/exclamic.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/default-banner.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/new.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/info.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/wix/resources/default-dialog.bmp':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/tag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/frames.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/eyeD3/binfuncs.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/advice.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/_flatten.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/DEPENDENCIES.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/human.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/interface.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/sequence.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/mapping.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/tests/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/tests/test_idatetime.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/tests/basemapping.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/interfaces.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/common/idatetime.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/verify.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/adapter.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/SETUP.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/declarations.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_element.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/foodforthought.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_advice.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/dummy.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/ifoo.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_odd_declarations.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_interface.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_verify.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/odd.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_declarations.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/unitfixtures.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_document.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/m1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/m2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_adapter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/tests/test_sorting.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/document.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/adapter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/PUBLICATION.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/ro.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/_zope_interface_coptimizations.c':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/interfaces.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/interface/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/event/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/event/tests.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/event/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/_duplicate.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/tests/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/tests/test_exceptionformatter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/DEPENDENCIES.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/exceptionformatter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/interfaces.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/exceptions/_notfounderror.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/socketexample.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/DEPENDENCIES.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/testing.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/contextdependent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/request.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/test_api.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/placelesssetup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/test_adapter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/test_service.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/test_utilityservice.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/tests/components.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/adapter.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/service.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/interfaces.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/bbb/servicenames.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/factory.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/tests.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/interfaces.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/site.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/component/factory.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/DEPENDENCIES.cfg':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/loghandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/formparser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/tests.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/loggingsupport.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/doctest.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/doctestunit.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/module.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/cleanup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/vendorlibs/zope/testing/formparser.txt':
+  svn:keywords
+  svn:eol-style

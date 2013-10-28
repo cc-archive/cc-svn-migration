@@ -1,0 +1,2167 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag-wiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/wizard.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/uuidgen.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/dark.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/wix.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/tallow.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/ca/scaexec.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/ca/wixca.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/ca/scasched.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/doc/wixloc.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/doc/wix.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/doc/WiX.chm':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/candle.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/light.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/wixcab.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/lit.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/up.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/exclamic.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/default-banner.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/new.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/info.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/resources/default-dialog.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/test_id3_22.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/test_id3_23.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/test_id3_none.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tests/test_id3_1.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx/wizpages.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx/xrcwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/ccwx/stext.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc.icns':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc-48.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/bullet.xpm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc-32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc-16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc_33.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/resources/cc_33.gif':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/cctag.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/wxsupportwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/cctag-gui/setup_cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/submission.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/cb_ftp.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/trunk/pyarchive/pyarchive/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag-wiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/.project':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/wizard.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/uuidgen.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/dark.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/wix.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/tallow.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/ca/scaexec.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/ca/wixca.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/ca/scasched.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/doc/wixloc.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/doc/wix.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/doc/WiX.chm':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/candle.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/light.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/wixcab.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/lit.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/up.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/exclamic.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/default-banner.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/new.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/info.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/resources/default-dialog.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/test_id3_22.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/test_id3_23.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/test_id3_none.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tests/test_id3_1.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx/wizpages.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx/xrcwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/ccwx/stext.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc.icns':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc-48.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/bullet.xpm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc-32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc-16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc_33.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/cctag.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/wxsupportwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/branches/ourmedia_branch/cctag-gui/setup_cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag-wiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/wizard.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/dark.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/wix.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/tallow.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/ca/scaexec.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/ca/wixca.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/ca/scasched.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/doc/wixloc.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/doc/wix.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/doc/WiX.chm':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/candle.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/light.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/wixcab.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/lit.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/up.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/exclamic.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/default-banner.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/new.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/info.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup/resources/default-dialog.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/test_id3_22.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/test_id3_23.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/test_id3_none.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tests/test_id3_1.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx/wizpages.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx/xrcwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/ccwx/stext.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc.icns':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc-48.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/bullet.xpm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc-32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc-16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc_33.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/cctag.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/wxsupportwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_branchpoint/cctag-gui/setup_cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag-wiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/wizard.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/uuidgen.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/dark.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/wix.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/tallow.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/ca/scaexec.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/ca/wixca.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/ca/scasched.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/doc/wixloc.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/doc/wix.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/doc/WiX.chm':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/candle.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/light.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/wixcab.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/lit.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/up.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/exclamic.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/default-banner.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/new.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/info.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/resources/default-dialog.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/test_id3_22.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/test_id3_23.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/test_id3_none.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tests/test_id3_1.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx/wizpages.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx/xrcwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/ccwx/stext.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/tag.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/frames.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/__init__.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/mp3.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/utils.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/eyeD3/binfuncs.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc.icns':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc-48.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/bullet.xpm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc-32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc-16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc_33.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/cctag.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/wxsupportwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/cctag-gui/setup_cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/submission.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/cb_ftp.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0/pyarchive/pyarchive/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag-wiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/lookup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/rdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/base32.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/metadata.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/const.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag/cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/aaronrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/rdfdict.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/ccrdf.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccrdf/rdfextract.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/LICENSE':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccl.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/html.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/wizard.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/build.xml':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup.cfg':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cct.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/build.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/files.wxs':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/_build.bat':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/uuidgen.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/dark.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/wix.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/tallow.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/ca/sca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/ca/scaexec.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/ca/wixca.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/ca/scasched.dll':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/ca/wixca.wixlib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/doc/wixloc.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/doc/wix.xsd':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/doc/WiX.chm':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/candle.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/lib/dutil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/lib/wcautil.lib':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/light.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/wixcab.dll':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/lit.exe':
+  svn:executable
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/bin/CPL.TXT':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/build.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/freeze.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/up.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/exclamic.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/default-banner.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/new.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/info.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/LICENSE.rtf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/resources/default-dialog.bmp':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/URIRef.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/Store.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/Namespace.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/Literal.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parsers/RDFXMLParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parsers/RDFXMLHandler.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parsers/NTParser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parsers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parsers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/parser.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/xml_names.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/N3Serializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/XMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/NTSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/YAMLSerializer.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/serializers/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/syntax/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/InformationStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/URLInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/StringInputSource.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/model/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/model/schema.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/model/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/RDF.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/TripleStore.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/util.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/Identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/backends/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/backends/SleepyCatBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/backends/Concurrent.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/backends/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/backends/InMemoryBackend.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/rdflib/BNode.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/test_id3_22.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/test_id3_23.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/show_id3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/test.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/test_id3_none.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tests/test_id3_1.mp3':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx/wizpages.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx/xrcwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/ccwx/stext.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/_sandtoy.conf':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/CHANGES':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/tag.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/frames.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/__init__.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/mp3.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/utils.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/eyeD3/binfuncs.py':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/constants.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/id3v2frame.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/utility.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/debug.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/encoding.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/id3v1.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/tagger/id3v2.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/publishguy.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc.icns':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc-48.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/publishguy_small.gif':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/bullet.xpm':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc-32.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc-16.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc_33.png':
+  svn:mime-type
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/resources/cc.ico':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/README.txt':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/MANIFEST.in':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/claim.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/cctag.xrc':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/wxsupportwiz.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/make_dmg.sh':
+  svn:executable
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/cctag-gui/setup_cli.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/submission.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/cb_ftp.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/__init__.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/mp3.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/utils.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/exceptions.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/identifier.py':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/.cvsignore':
+  svn:keywords
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/ccpublisher1/tags/ccp8_1_0_1/pyarchive/pyarchive/const.py':
+  svn:keywords
+  svn:eol-style

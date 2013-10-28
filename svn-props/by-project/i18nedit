@@ -1,0 +1,95 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/po_files':
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/scripts/split_po.py':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/docs/authentication.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/data':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/model/message.py':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/tests/functional/test_account.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/controllers/account.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/controllers/message.py':
+  svn:executable
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/lib/template.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/lib/authentication.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/lib/decorators.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/public/tower.css':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/language/admin.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/profile.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/login_successful.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/registration/invalid.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/registration/index.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/registration/success.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/login.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/herder/templates/account/logout.html':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/log/README.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/zdaemon.conf':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/zope.conf':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/apidoc.zcml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/debug.ini':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/buildout.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/contents.pt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/translate.pt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/translatemessage.pt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/configure.zcml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/synchronize.pt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/browser/exportimport.pt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/testing.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/configure.zcml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/ftesting.zcml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/src/cci18nedit/startup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/site.zcml':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/var/README.txt':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227/deploy.ini':
+  svn:eol-style

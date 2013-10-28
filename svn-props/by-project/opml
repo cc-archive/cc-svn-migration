@@ -1,0 +1,17 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk':
+  svn:ignore
+  svn:externals
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/buildout.cfg':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/setup.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/src/opml/__init__.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/src/opml/tests.py':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/src/opml/README':
+  svn:eol-style
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/opml/trunk/README.txt':
+  svn:eol-style

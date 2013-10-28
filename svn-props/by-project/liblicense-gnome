@@ -1,0 +1,12 @@
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/trunk':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/trunk/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/trunk/autogen.sh':
+  svn:executable
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/tags/0.4':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/tags/0.4/src':
+  svn:ignore
+Properties on 'file:///var/www/code.creativecommons.org/svnroot/liblicense-gnome/tags/0.4/autogen.sh':
+  svn:executable
