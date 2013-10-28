@@ -1,0 +1,461 @@
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_3 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_4 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20071206/www/includes - referrer http://code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript
+
+file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production-choose-url/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc4
+cc5 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc5
+images http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src/ld - 
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/tags/2009_03_16 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/chooser-url-changes/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next/javascript/src - ubiquity-rdfa http://ubiquity-rdfa.googlecode.com/svn/tags/0.7.3
+
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/labs - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/branches/production
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6.1/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20071206/www/wp-content/plugins - menu-manager http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/menu-manager
+worldwide http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/worldwide
+creativecommons http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/creativecommons
+license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+google-analyticator http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/google-analyticator
+bdprss http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/bdprss
+contactforms http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/contactforms
+
+file:///var/www/code.creativecommons.org/svnroot/oenutch/trunk/nutch/src/java - thewebsemantic http://jenabean.googlecode.com/svn/tags/jenabean-0.8/src/main/java/thewebsemantic/
+se http://oai4j-client.svn.sourceforge.net/svnroot/oai4j-client/trunk/src/main/java/se/
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_6 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20071206/www/wp-content/themes - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc4
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-explicit-registration/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc4
+images http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/branches/production
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/before-asheesh-messed-with-i18n/cc/engine - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/local-providers - bin http://code.creativecommons.org/svnroot/cchost/trunk/bin
+cc_org http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/trunk/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/mihai-flickr-soc/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/labs/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc4
+images http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/i18nedit/tags/zope3-skeleton-20080227 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/oenutch/branches/production/nutch/src/java - thewebsemantic http://jenabean.googlecode.com/svn/trunk/src/thewebsemantic/
+se http://oai4j-client.svn.sourceforge.net/svnroot/oai4j-client/trunk/src/main/java/se/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5/icons - jurisdictions http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/international
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/trunk/www - legalcode http://code.creativecommons.org/svnroot/legalcode/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/campaign_widget/trunk - 
+
+file:///var/www/code.creativecommons.org/svnroot/oenutch/trunk/nutch/src/java/org/creativecommons - license http://code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license
+
+file:///var/www/code.creativecommons.org/svnroot/autocurate/trunk/flickr - rose http://svn.asheesh.org/svn/public/20062007/rose/rose/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.0/cc/engine/skin/resources - cc3 http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/wp-content/themes/cc3
+images http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/images
+includes http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/chooser-url-changes/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc4
+cc5 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc5
+images http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/stats - licensexsl_tools http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-wsgi-deliverance-branch/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/wpLicense/tags/wplicense-0.9-rc2/wpLicense - 
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/production/www/includes - referrer http://code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript
+gettext http://gettext-js.googlecode.com/svn/trunk/js
+locales http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+licenses http://code.creativecommons.org/svnroot/license.rdf/trunk/license_rdf
+
+file:///var/www/code.creativecommons.org/svnroot/autocurate/trunk - rose http://svn.asheesh.org/svn/public/20062007/rose/rose/
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/scholars/tags/sc_20070820 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/licensexsl_tools - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20071206/www - rdf http://code.creativecommons.org/svnroot/license.rdf/trunk/rdf
+license_rdf http://code.creativecommons.org/svnroot/license.rdf/trunk/license_rdf
+licenses http://code.creativecommons.org/svnroot/license.rdf/trunk/licenses
+
+file:///var/www/code.creativecommons.org/svnroot/pywikipedia/trunk - pywikipedia http://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia
+
+file:///var/www/code.creativecommons.org/svnroot/cclookup/trunk - tagger    svn://svn.berlios.de/cctools/vendor/trunk/tagger
+eyeD3    svn://svn.berlios.de/cctools/vendor/trunk/eyeD3
+bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/scholars/tags/sc_20080229 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-explicit-registration/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/chooser-url-changes - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/production - bin http://code.creativecommons.org/svnroot/cchost/trunk/bin
+cc_org http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/trunk/icons - jurisdictions http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/international
+
+file:///var/www/code.creativecommons.org/svnroot/cclabs - cclib http://code.creativecommons.org/svnroot/cclib/trunk
+images http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images
+
+file:///var/www/code.creativecommons.org/svnroot/zope_products/trunk/CcLicense - api_xml http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070806/www/includes - referrer http://code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/i18n/www/includes - referrer http://code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript
+gettext http://gettext-js.googlecode.com/svn/trunk/js
+locales http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/api/branches/rest_1_0/cc_rest - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.1/cc/engine/skin/resources - cc3 http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/wp-content/themes/cc3
+images http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/images
+includes http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-wsgi-deliverance-branch/cc/engine/skin/resources - cc3 http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/wp-content/themes/cc3
+cc4 http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/wp-content/themes/cc4
+images http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/images
+includes http://cctools.svn.sourceforge.net/svnroot/cctools/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/scholars/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/licensexsl_tools - 
+
+file:///var/www/code.creativecommons.org/svnroot/www-i/trunk/scripts - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.1 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.2 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+licenses http://code.creativecommons.org/svnroot/license.rdf/trunk/license_rdf
+
+file:///var/www/code.creativecommons.org/svnroot/api/branches/chained_chooser - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/branches/cc0-fewer-templates - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/asheesh_oneoffs/monthly_i18n_reminder - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.4/icons - jurisdictions http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/international
+
+file:///var/www/code.creativecommons.org/svnroot/log_analysis - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.0 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/tags/2009_03_16/scicom/mta_web/static/images - deed http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/deed
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.1 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-wsgi-deliverance-branch - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/branches/nyergler-mta2-branch/scicom/mta_web/static - includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/api/tags/pre-pastification - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes - gettext http://gettext-js.googlecode.com/svn/trunk/js
+locales http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-explicit-registration - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src/ld - 
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/trunk/javascript/src - ubiquity-rdfa http://ubiquity-rdfa.googlecode.com/svn/tags/0.7.3
+
+
+file:///var/www/code.creativecommons.org/svnroot/license.rdf/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.6/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070208/www/wp-content/themes - cc3 http://code.creativecommons.org/svnroot/ccwordpress/tags/20070208/cc3
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-explicit-registration/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/branches/nyergler-mta2-branch - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.deedscraper_ http://code.creativecommons.org/svnroot/metadata_scraper/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1 - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+licenses http://code.creativecommons.org/svnroot/license.rdf/trunk/license_rdf
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/branches/cc0 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/before-asheesh-messed-with-i18n - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/wpLicense/tags/1.1.0/wplicense - 
+
+file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch - 
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.0/cc/engine - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_1 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_5_2 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.5.1/icons - jurisdictions http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/international
+
+file:///var/www/code.creativecommons.org/svnroot/zope_products/trunk/iStr - data http://code.creativecommons.org/svnroot/i18n/trunk/data
+i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/i18nedit/trunk/po_files - cc_org http://code.creativecommons.org/svnroot/i18n/trunk/txt
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production/cc/license - license_xsl http://code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/www/branches/scwp_branch/wp-content/plugins - menu-manager http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/menu-manager
+
+file:///var/www/code.creativecommons.org/svnroot/api/branches/deployment-sanity-branch/src/cc/licenses - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070208/www/wp-content/plugins - menu-manager http://code.creativecommons.org/svnroot/ccwordpress/tags/20070208/plugins/menu-manager
+creativecommons http://code.creativecommons.org/svnroot/ccwordpress/tags/20070208/plugins/creativecommons
+
+file:///var/www/code.creativecommons.org/svnroot/api/tags/deployment-sanity-branchpoint - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/nyergler-rdf-sparql/cc/license - license_xsl http://code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/trunk/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070806/www/wp-content/plugins - menu-manager http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/menu-manager
+creativecommons http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/creativecommons
+license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+google-analyticator http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/google-analyticator
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070613/www/wp-content/themes - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/i18n/www/wp-content/plugins - 
+
+file:///var/www/code.creativecommons.org/svnroot/cclib/branches/stable - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.1 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.2 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.3 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.4 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/chooser-url-changes/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production-choose-url - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+cc.license_ http://code.creativecommons.org/svnroot/cc.license/branches/production
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/trunk/scicom/mta_web/static - includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.9 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/trunk/scicom/mta_web/static/images - deed http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/deed
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/labs/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070613/www/wp-content/plugins - menu-manager http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/menu-manager
+creativecommons http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/creativecommons
+license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+google-analyticator http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/plugins/google-analyticator
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/branches/0.96 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/api/branches/nose-test-suite-branch - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/trunk/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc4
+cc5 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc5
+images http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.91 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.92 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch/i18n - i18n_po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.93 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/license.rdf/branches/production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/labs/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.94 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.95 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.96 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/tags/0.97 - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production/cc/engine/skin/resources - cc3 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc3
+cc4 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc4
+cc5 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes/cc5
+images http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/images
+includes http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/api/trunk - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/wpLicense/tags/wplicense-0.9/wpLicense - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccsearch/trunk - bin http://code.creativecommons.org/svnroot/cchost/trunk/bin
+cc_org http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/cclib/trunk - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/production/www/wp-content/themes - creativecommons.org http://code.creativecommons.org/svnroot/themes/creativecommons.org/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/tags/1.1/cc/engine - i18n http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/nyergler-wsgi-deliverance-branch/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/trunk/cc/license - license_xsl http://code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/trunk/i18n - i18n_po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/branches/nyergler-mta2-branch/scicom/mta_web/static/images - deed http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/deed
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.0/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/tags/ccooo-0.5.1/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/next - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/www/branches/scwp_branch/wp-content/themes - 
+
+file:///var/www/code.creativecommons.org/svnroot/ccooo/branches/nimal-gsoc-2009/src/org/creativecommons/license - rdf http://code.creativecommons.org/svnroot/license.rdf/branches/production/rdf
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/scholars/branches/production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.license/branches/production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/i18n/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/jswidget/trunk - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/i18n/www - rdf http://code.creativecommons.org/svnroot/license.rdf/trunk/rdf
+license_rdf http://code.creativecommons.org/svnroot/license.rdf/trunk/license_rdf
+licenses http://code.creativecommons.org/svnroot/license.rdf/trunk/licenses
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/trunk/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/license_xsl/branches/gradually_increasing_sanity_branch - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production-choose-url/cc/engine/i18n - po http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/production/www - legalcode http://code.creativecommons.org/svnroot/legalcode/branches/production
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/wpLicense/tags/wplicense-0.9-rc1/wpLicense - 
+
+file:///var/www/code.creativecommons.org/svnroot/cclookup/tags/cclookup_22jan2007 - ccrdf http://code.creativecommons.org/svnroot/ccrdf/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/liblicense/tags/0.3/src/gnome - icons http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/images/international
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1_1 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/i18n/www/wp-content/plugins/worldwide - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src/ld - 
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/branches/nyergler-cr-compliance - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/production/javascript/src - ubiquity-rdfa http://ubiquity-rdfa.googlecode.com/svn/tags/0.7.3
+
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes - creativecommons.org http://code.creativecommons.org/svnroot/themes/creativecommons.org/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/metadata_scraper/branches/old_production - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20070806/www/wp-content/themes - cc3 http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/wp-content/themes/cc3
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/branches/i18n/www/wp-content/themes - 
+
+file:///var/www/code.creativecommons.org/svnroot/opml/trunk - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap/
+
+file:///var/www/code.creativecommons.org/svnroot/cc.engine/branches/production-choose-url/cc/engine - 
+
+file:///var/www/code.creativecommons.org/svnroot/stats/old - api http://code.creativecommons.org/svnroot/license_xsl/trunk
+
+file:///var/www/code.creativecommons.org/svnroot/ccsearch/branches/no-iframe - bin http://code.creativecommons.org/svnroot/cchost/trunk/bin
+cc_org http://code.creativecommons.org/svnroot/i18n/trunk/i18n
+
+file:///var/www/code.creativecommons.org/svnroot/www-i/trunk - www/i	 http://code.creativecommons.org/svnroot/ccwordpress/branches/production/www/images
+
+file:///var/www/code.creativecommons.org/svnroot/ccwordpress/tags/20071206/plugins/worldwide - license_xsl http://code.creativecommons.org/svnroot/license_xsl/trunk/
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_1 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/scicom/mta/tags/2009_03_16/scicom/mta_web/static - includes http://code.creativecommons.org/svnroot/ccwordpress/trunk/www/includes
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_3_2 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_1 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
+file:///var/www/code.creativecommons.org/svnroot/rdfadict/tags/rdfadict_0_7_2 - bootstrap svn://svn.zope.org/repos/main/zc.buildout/trunk/bootstrap
+
