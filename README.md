@@ -15,10 +15,12 @@ to learn more about it:
 
 To run the conversion, use the cc.rules file in this repository
 against the CC svn repo. Note that you run it directly on the local
-svn DB files, not via http.
+svn DB files, not via http. The logs folder contains logs for the
+conversion we ran, just in case those are useful at any point in the
+future.
 
-The logs folder contains logs for the conversion we ran, just in case
-those are useful at any point in the future.
-
-Note that we renamed some of the repos when uploading to GitHub,
-because of naming conflicts or for clarity.
+Once the git repositories are created locally, remote GitHub
+repositories are created and uploaded to--see the create-gh-repos and
+logs/upload-log.* files For details/logs. Note that we renamed some of
+the repos when uploading to GitHub, because of naming conflicts or for
+clarity.

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Uploads repositories to GitHub. Run from the directory that contains
+# the newly-converted repos. Set the GitHub username/password via the
+# environment (or edit the script):
+#
+# $ AUTH="username:password" ../path/to/gh-upload
+#
+# The script will print success/failure for each repository it attempts
+# to upload.
+
+for repo in *; do
+    curl -f -u "${AUTH}" -X POST -d "{\"name\":\"${repo}\"}" https://api.github.com/orgs/creativecommons/repos && echo "Success: ${repo}" || echo "Failed: ${repo}"
+done
+
